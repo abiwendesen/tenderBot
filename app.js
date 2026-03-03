@@ -3,7 +3,7 @@ import dotenv from 'dotenv';
 import {Bot} from 'grammy'
 import fetch from 'node-fetch'
 import fs from 'fs'
-import { fetcher } from './fetcher.js';
+import { interval } from './fetcher.js';
 
 dotenv.config()
 const app = express();
@@ -15,7 +15,7 @@ bot.command('start',async(ctx)=>{
 })
 
 bot.command('tender',async(ctx)=>{
-    fetcher(ctx);
+    interval(ctx);
 })
 
 app.listen(process.env.PORT,()=>{
