@@ -1,0 +1,22 @@
+{
+  "name": "tenderbot",
+  "version": "1.0.0",
+  "description": "bot for egp tender",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "author": "abi",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^17.3.1",
+    "express": "^5.2.1",
+    "grammy": "^1.40.1",
+    "mysql2": "^3.18.1",
+    "node-fetch": "^3.3.2",
+    "nodemon": "^3.1.14",
+    "redis": "^5.11.0"
+  }
+}

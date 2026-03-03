@@ -1,0 +1,2127 @@
+{
+  "total": 506,
+  "items": [
+    {
+      "packageId": "674fe984-ae33-432b-b8b6-7c4f384f9819",
+      "count": 1,
+      "result": [
+        {
+          "id": "1e466c69-ef19-4044-bade-0072e82fae2e",
+          "lotId": "a7a05769-b567-4750-8629-d1d3a43d0dc4",
+          "lotInPackageId": "a7a05769-b567-4750-8629-d1d3a43d0dc4",
+          "lotName": "ለማሞ መዘምር ካምፓስ የእንስሳት ህክምና ት/ክፍል የሚሆን ELISA kit ቁ.ር 11",
+          "lotDescription": "ለማሞ መዘምር ካምፓስ የእንስሳት ህክምና ት/ክፍል የሚሆን ELISA kit ቁ.ር 11",
+          "lotReferenceNo": "AU-NCB-G-0131-2018-PUR",
+          "lotNo": "1",
+          "procurementReferenceNo": "AU-NCB-G-0131-2018-PUR",
+          "procurementCategory": "Goods",
+          "packageId": "674fe984-ae33-432b-b8b6-7c4f384f9819",
+          "packageInformation": {},
+          "procurementClassification": [],
+          "spdId": "00000000-0000-0000-0000-000000000000",
+          "submissionDeadline": "2026-02-27T00:00:00",
+          "openingSchedule": null,
+          "sourceId": "8cc931ee-6334-4dc7-a168-a9444901ed84",
+          "sourceApplication": "Purchasing",
+          "method": "Open",
+          "language": "en",
+          "marketPlace": "National",
+          "procuringEntity": "Ambo University",
+          "timestamp": "2026-02-25T09:44:25.893217",
+          "invitationDate": "2026-02-26T16:35:29.265913",
+          "suppliers": null,
+          "isSubmittable": true,
+          "fiscalYearId": null,
+          "origin": "federal",
+          "originName": {
+            "am": null,
+            "en": "Federal Government",
+            "or": null,
+            "tg": null
+          }
+        }
+      ]
+    },
+    {
+      "packageId": "bc3b1d63-4ce5-4f33-bbbe-64263d865de3",
+      "count": 1,
+      "result": [
+        {
+          "id": "db090d2f-5bd0-4b6b-a7eb-a1817e46ebda",
+          "lotId": "48c9d641-86bf-4b34-a422-e505dd05cedb",
+          "lotInPackageId": "48c9d641-86bf-4b34-a422-e505dd05cedb",
+          "lotName": "procurement of Nissan v8 car spare part",
+          "lotDescription": "",
+          "lotReferenceNo": "FSCoE-NCB-G-0131-2018-PUR",
+          "lotNo": "1",
+          "procurementReferenceNo": "FSCoE-NCB-G-0131-2018-PUR",
+          "procurementCategory": "Goods",
+          "packageId": "bc3b1d63-4ce5-4f33-bbbe-64263d865de3",
+          "packageInformation": {},
+          "procurementClassification": [],
+          "spdId": "00000000-0000-0000-0000-000000000000",
+          "submissionDeadline": "2026-03-05T15:20:00",
+          "openingSchedule": null,
+          "sourceId": "dc650ab8-c47d-4efa-bc40-a1dba79a021e",
+          "sourceApplication": "Purchasing",
+          "method": "Open",
+          "language": "en",
+          "marketPlace": "National",
+          "procuringEntity": "Federal Supreme Court",
+          "timestamp": "2026-02-26T16:31:47.723964",
+          "invitationDate": "2026-02-26T16:31:47.470676",
+          "suppliers": null,
+          "isSubmittable": true,
+          "fiscalYearId": null,
+          "origin": "federal",
+          "originName": {
+            "am": null,
+            "en": "Federal Government",
+            "or": null,
+            "tg": null
+          }
+        }
+      ]
+    },
+    {
+      "packageId": "42364dd8-8840-4a7a-850b-12f347451ec4",
+      "count": 1,
+      "result": [
+        {
+          "id": "e76b9791-d308-4dbd-b889-c94b51d4bcb8",
+          "lotId": "c34f63e4-9eda-40e1-a7ea-18d0b6c17c27",
+          "lotInPackageId": "c34f63e4-9eda-40e1-a7ea-18d0b6c17c27",
+          "lotName": " Procurement of Medical Supplies, Laboratory Reagents and Chemicals",
+          "lotDescription": " Procurement of Medical Supplies, Laboratory Reagents and Chemicals",
+          "lotReferenceNo": "SPSH-NCB-G-0281-2018-PUR",
+          "lotNo": "1",
+          "procurementReferenceNo": "SPSH-NCB-G-0281-2018-PUR",
+          "procurementCategory": "Goods",
+          "packageId": "42364dd8-8840-4a7a-850b-12f347451ec4",
+          "packageInformation": {},
+          "procurementClassification": [],
+          "spdId": "00000000-0000-0000-0000-000000000000",
+          "submissionDeadline": "2026-02-27T00:00:00",
+          "openingSchedule": null,
+          "sourceId": "b3980dc3-2ca3-4b01-a06a-6d8c7ae3d1ea",
+          "sourceApplication": "Purchasing",
+          "method": "Open",
+          "language": "en",
+          "marketPlace": "National",
+          "procuringEntity": "St. Peter Specialized Hospital",
+          "timestamp": "2026-02-26T16:28:52.166374",
+          "invitationDate": "2026-02-26T16:28:51.878454",
+          "suppliers": null,
+          "isSubmittable": true,
+          "fiscalYearId": null,
+          "origin": "federal",
+          "originName": {
+            "am": null,
+            "en": "Federal Government",
+            "or": null,
+            "tg": null
+          }
+        }
+      ]
+    },
+    {
+      "packageId": "d8e750c9-f73d-4c13-a2ea-bf4bc5205cfb",
+      "count": 1,
+      "result": [
+        {
+          "id": "a70e0367-79f0-403a-8770-cbd93311a2de",
+          "lotId": "c55c634d-6cc9-4650-b7b4-d53169204b3e",
+          "lotInPackageId": "c55c634d-6cc9-4650-b7b4-d53169204b3e",
+          "lotName": "Procurement of Event Management Services",
+          "lotDescription": "Car Decore for Revo Hilux",
+          "lotReferenceNo": "OHB-NCB-G-0049-2018-PUR",
+          "lotNo": "1",
+          "procurementReferenceNo": "OHB-NCB-G-0049-2018-PUR",
+          "procurementCategory": "Goods",
+          "packageId": "d8e750c9-f73d-4c13-a2ea-bf4bc5205cfb",
+          "packageInformation": {},
+          "procurementClassification": [],
+          "spdId": "00000000-0000-0000-0000-000000000000",
+          "submissionDeadline": "2026-02-27T11:31:48.897471",
+          "openingSchedule": null,
+          "sourceId": "0234982f-307c-486a-9f8b-08cbf6a99bc2",
+          "sourceApplication": "Purchasing",
+          "method": "Open",
+          "language": "en",
+          "marketPlace": "National",
+          "procuringEntity": "Oromia Health Bureau",
+          "timestamp": "2026-02-26T11:31:50.594974",
+          "invitationDate": "2026-02-26T16:28:23.615218",
+          "suppliers": null,
+          "isSubmittable": true,
+          "fiscalYearId": null,
+          "origin": "or",
+          "originName": {
+            "am": null,
+            "en": "Oromia Government",
+            "or": null,
+            "tg": null
+          }
+        }
+      ]
+    },
+    {
+      "packageId": "fd9ab197-022d-4149-b89f-d74507489f37",
+      "count": 1,
+      "result": [
+        {
+          "id": "40cf2b2d-2c1e-4ccf-be66-ad67371f549c",
+          "lotId": "a78ec11b-b824-4c85-bd0e-bb9dc86528af",
+          "lotInPackageId": "a78ec11b-b824-4c85-bd0e-bb9dc86528af",
+          "lotName": "Procurement of Event Management Services",
+          "lotDescription": "Car Decor",
+          "lotReferenceNo": "OHB-NCB-G-0046-2018-PUR",
+          "lotNo": "1",
+          "procurementReferenceNo": "OHB-NCB-G-0046-2018-PUR",
+          "procurementCategory": "Goods",
+          "packageId": "fd9ab197-022d-4149-b89f-d74507489f37",
+          "packageInformation": {},
+          "procurementClassification": [],
+          "spdId": "00000000-0000-0000-0000-000000000000",
+          "submissionDeadline": "2026-02-27T11:31:28.389993",
+          "openingSchedule": null,
+          "sourceId": "31c69f0c-7632-49d6-ba56-5139e30088b1",
+          "sourceApplication": "Purchasing",
+          "method": "Open",
+          "language": "en",
+          "marketPlace": "National",
+          "procuringEntity": "Oromia Health Bureau",
+          "timestamp": "2026-02-26T11:31:29.599976",
+          "invitationDate": "2026-02-26T16:27:53.007273",
+          "suppliers": null,
+          "isSubmittable": true,
+          "fiscalYearId": null,
+          "origin": "or",
+          "originName": {
+            "am": null,
+            "en": "Oromia Government",
+            "or": null,
+            "tg": null
+          }
+        }
+      ]
+    },
+    {
+      "packageId": "4427b99a-4e8d-46b3-9f19-c888cd6d784b",
+      "count": 1,
+      "result": [
+        {
+          "id": "04beffca-efa3-4dc4-a956-6985038a2a35",
+          "lotId": "6971ae8c-1e93-4634-b21b-8ee4ce4da610",
+          "lotInPackageId": "6971ae8c-1e93-4634-b21b-8ee4ce4da610",
+          "lotName": "መወዩ ጎባ ህ/ጤ/ሳይ/ኮሌጅ የህክምና መፅጃ እቃዎች ግዥ 2018-2",
+          "lotDescription": "መወዩ ጎባ ህ/ጤ/ሳይ/ኮሌጅ የህክምና መፅጃ እቃዎች ግዥ 2018-2",
+          "lotReferenceNo": "MWU-NCB-G-0124-2018-PUR",
+          "lotNo": "1",
+          "procurementReferenceNo": "MWU-NCB-G-0124-2018-PUR",
+          "procurementCategory": "Goods",
+          "packageId": "4427b99a-4e8d-46b3-9f19-c888cd6d784b",
+          "packageInformation": {},
+          "procurementClassification": [],
+          "spdId": "00000000-0000-0000-0000-000000000000",
+          "submissionDeadline": "2026-02-27T10:00:00",
+          "openingSchedule": null,
+          "sourceId": "a5288e93-ffb5-4d98-8514-f2d9c41eddb3",
+          "sourceApplication": "Purchasing",
+          "method": "Open",
+          "language": "en",
+          "marketPlace": "National",
+          "procuringEntity": "Madda Walabu University",
+          "timestamp": "2026-02-25T15:41:51.912862",
+          "invitationDate": "2026-02-26T16:22:28.719848",
+          "suppliers": null,
+          "isSubmittable": true,
+          "fiscalYearId": null,
+          "origin": "federal",
+          "originName": {
+            "am": null,
+            "en": "Federal Government",
+            "or": null,
+            "tg": null
+          }
+        }
+      ]
+    },
+    {
+      "packageId": "66fd6999-524e-4b65-87bc-9cf311f99428",
+      "count": 1,
+      "result": [
+        {
+          "id": "ba445619-214b-444c-b370-e57d4e26d499",
+          "lotId": "a00982de-9f7e-4ad0-a02f-1e2c283cd26c",
+          "lotInPackageId": "0a9be1a9-0d9c-4595-9125-fbd61028f1e3",
+          "lotName": "Lot For Bati Degan WS Project 2nd ",
+          "lotDescription": "",
+          "lotReferenceNo": "MoWE-BID-2018-RE",
+          "lotNo": "1",
+          "procurementReferenceNo": "MoWE-NCB-G-0044-2018-BID-Open",
+          "procurementCategory": "Goods",
+          "packageId": "66fd6999-524e-4b65-87bc-9cf311f99428",
+          "packageInformation": {
+            "branch": {
+              "name": {
+                "am": "የግዥ ስራ አስፈጻሚ",
+                "en": "Procurement Executive officer"
+              },
+              "isBranch": false
+            },
+            "address": {
+              "town": "Addis Ababa",
+              "email": "belayyeho@gmail.com",
+              "poBox": "5744",
+              "street": "Haile geberslelase next to capital hotel",
+              "country": "Ethiopia",
+              "postCode": "1000",
+              "facsimile": "0116898000",
+              "telephone": {
+                "code": "+251",
+                "number": "116898000"
+              },
+              "roomNumber": "2nd/213"
+            },
+            "market_type": "National",
+            "envelop_type": "single envelop",
+            "package_name": "Bid For Bati Degan WS Project 2nd",
+            "package_number": "MoWE-NCB-G-0044-2018-BID-Open",
+            "invitation_date": "2026-02-17T00:00:00+03:00",
+            "procurement_type": "Bidding",
+            "procuring_entity": {
+              "am": "የውሃና ኢነርጂ ሚኒስቴር",
+              "en": "Ministry of Water and Energy"
+            },
+            "procurement_method": "Open",
+            "package_description": "Bid For Bati Degan WS Project 2nd",
+            "procurement_category": "Goods",
+            "procurement_language": "en"
+          },
+          "procurementClassification": [],
+          "spdId": "30697570-2e07-4633-bad4-1977019b681a",
+          "submissionDeadline": "2026-03-04T10:00:00",
+          "openingSchedule": "2026-03-04T10:30:00",
+          "sourceId": "25d16b14-ecde-4293-86fc-14051e2fa804",
+          "sourceApplication": "Tendering",
+          "method": "Open",
+          "language": "en",
+          "marketPlace": "National",
+          "procuringEntity": "Ministry of Water and Energy",
+          "timestamp": "2026-02-17T07:21:46.842276",
+          "invitationDate": "2026-02-26T16:19:23.431821",
+          "suppliers": null,
+          "isSubmittable": true,
+          "fiscalYearId": null,
+          "origin": "federal",
+          "originName": {
+            "am": null,
+            "en": "Federal Government",
+            "or": null,
+            "tg": null
+          }
+        }
+      ]
+    },
+    {
+      "packageId": "d1418571-0831-4ee1-8591-b3350968fc63",
+      "count": 1,
+      "result": [
+        {
+          "id": "15cc4c09-cd67-4a0d-bc19-e11bf5b24ef5",
+          "lotId": "0ec74169-ac76-46d7-a9e1-ff90c98e0f22",
+          "lotInPackageId": "0ec74169-ac76-46d7-a9e1-ff90c98e0f22",
+          "lotName": "Purchase of Hotel service for shashemene Region",
+          "lotDescription": "Purchase of Hotel service for shashemene Region",
+          "lotReferenceNo": "AHRI-NCB-G-0218-2018-PUR",
+          "lotNo": "1",
+          "procurementReferenceNo": "AHRI-NCB-G-0218-2018-PUR",
+          "procurementCategory": "Goods",
+          "packageId": "d1418571-0831-4ee1-8591-b3350968fc63",
+          "packageInformation": {},
+          "procurementClassification": [],
+          "spdId": "00000000-0000-0000-0000-000000000000",
+          "submissionDeadline": "2026-02-27T08:30:00",
+          "openingSchedule": null,
+          "sourceId": "d4aba5f0-745c-4c1a-b1f0-29bb95c0a259",
+          "sourceApplication": "Purchasing",
+          "method": "Open",
+          "language": "en",
+          "marketPlace": "National",
+          "procuringEntity": "Armauer Hansen Research Institute ",
+          "timestamp": "2026-02-26T16:15:58.027503",
+          "invitationDate": "2026-02-26T16:15:57.078696",
+          "suppliers": null,
+          "isSubmittable": true,
+          "fiscalYearId": null,
+          "origin": "federal",
+          "originName": {
+            "am": null,
+            "en": "Federal Government",
+            "or": null,
+            "tg": null
+          }
+        }
+      ]
+    },
+    {
+      "packageId": "872df9f5-3d28-4ffd-935a-d7d4ce4213f2",
+      "count": 1,
+      "result": [
+        {
+          "id": "03fadc16-b68f-4dbd-afc5-a4624562810c",
+          "lotId": "0c12150d-a68c-40ed-b383-857d8374390a",
+          "lotInPackageId": "0c12150d-a68c-40ed-b383-857d8374390a",
+          "lotName": "FAN MITSUBISH Dump Truck T-1",
+          "lotDescription": "FAN MITSUBISH Dump Truck T-1",
+          "lotReferenceNo": "AACRA-NCB-G-0233-2018-PUR",
+          "lotNo": "1",
+          "procurementReferenceNo": "AACRA-NCB-G-0233-2018-PUR",
+          "procurementCategory": "Goods",
+          "packageId": "872df9f5-3d28-4ffd-935a-d7d4ce4213f2",
+          "packageInformation": {},
+          "procurementClassification": [],
+          "spdId": "00000000-0000-0000-0000-000000000000",
+          "submissionDeadline": "2026-02-27T00:00:00",
+          "openingSchedule": null,
+          "sourceId": "373d52ba-9c3a-4252-8057-2de7861b5bb1",
+          "sourceApplication": "Purchasing",
+          "method": "Open",
+          "language": "en",
+          "marketPlace": "National",
+          "procuringEntity": "Addis Ababa Road Authority  ",
+          "timestamp": "2026-01-29T12:23:02.970333",
+          "invitationDate": "2026-02-26T16:15:46.748841",
+          "suppliers": null,
+          "isSubmittable": true,
+          "fiscalYearId": null,
+          "origin": "aa",
+          "originName": {
+            "am": null,
+            "en": "Addis Ababa Government",
+            "or": null,
+            "tg": null
+          }
+        }
+      ]
+    },
+    {
+      "packageId": "a954b58f-97b5-4612-abb6-31af0a6aab6c",
+      "count": 1,
+      "result": [
+        {
+          "id": "74ddb4ec-ccee-4f7d-9a86-9c7545428034",
+          "lotId": "06c99e86-3a8c-42a6-916f-e092615d6b5d",
+          "lotInPackageId": "06c99e86-3a8c-42a6-916f-e092615d6b5d",
+          "lotName": "Purchasing of Liquid Hand Sanitizer 1/2Liter (ሣይኒታይዘር,Hand Towel ,Bath Towel, Plastic Floor mat ,Sink, carpet, Artificial Grass mat",
+          "lotDescription": "Purchasing of Liquid Hand Sanitizer 1/2Liter (ሣይኒታይዘር,Hand Towel ,Bath Towel, Plastic Floor mat ,Sink, carpet, Artificial Grass mat",
+          "lotReferenceNo": "ESS-NCB-G-0093-2018-PUR",
+          "lotNo": "1",
+          "procurementReferenceNo": "ESS-NCB-G-0093-2018-PUR",
+          "procurementCategory": "Goods",
+          "packageId": "a954b58f-97b5-4612-abb6-31af0a6aab6c",
+          "packageInformation": {},
+          "procurementClassification": [],
+          "spdId": "00000000-0000-0000-0000-000000000000",
+          "submissionDeadline": "2026-02-27T09:30:00",
+          "openingSchedule": null,
+          "sourceId": "3c8e2763-3ba0-47c5-be2b-9c97b3412cff",
+          "sourceApplication": "Purchasing",
+          "method": "Open",
+          "language": "en",
+          "marketPlace": "National",
+          "procuringEntity": "Ethiopian Statistics Service",
+          "timestamp": "2026-02-26T16:14:59.547802",
+          "invitationDate": "2026-02-26T16:14:58.966576",
+          "suppliers": null,
+          "isSubmittable": true,
+          "fiscalYearId": null,
+          "origin": "federal",
+          "originName": {
+            "am": null,
+            "en": "Federal Government",
+            "or": null,
+            "tg": null
+          }
+        }
+      ]
+    },
+    {
+      "packageId": "4c1e0f45-2059-40c2-bad9-509dbb782e2c",
+      "count": 1,
+      "result": [
+        {
+          "id": "1ed20f58-e698-40aa-9fe8-ee9ca53428cc",
+          "lotId": "09ee66c1-cc8d-4ab9-8493-843fc28c026c",
+          "lotInPackageId": "09ee66c1-cc8d-4ab9-8493-843fc28c026c",
+          "lotName": "Power Shaft and Drive Shaft DAEWOO (Dump Truck) T-1",
+          "lotDescription": "Power Shaft and Drive Shaft DAEWOO (Dump Truck) T-1",
+          "lotReferenceNo": "AACRA-NCB-G-0242-2018-PUR",
+          "lotNo": "1",
+          "procurementReferenceNo": "AACRA-NCB-G-0242-2018-PUR",
+          "procurementCategory": "Goods",
+          "packageId": "4c1e0f45-2059-40c2-bad9-509dbb782e2c",
+          "packageInformation": {},
+          "procurementClassification": [],
+          "spdId": "00000000-0000-0000-0000-000000000000",
+          "submissionDeadline": "2026-03-09T00:00:00",
+          "openingSchedule": null,
+          "sourceId": "f0aba178-ab8f-4ad4-b6cc-53c44bcca88d",
+          "sourceApplication": "Purchasing",
+          "method": "Open",
+          "language": "en",
+          "marketPlace": "National",
+          "procuringEntity": "Addis Ababa Road Authority  ",
+          "timestamp": "2026-01-30T17:19:28.427713",
+          "invitationDate": "2026-02-26T16:14:09.270813",
+          "suppliers": null,
+          "isSubmittable": true,
+          "fiscalYearId": null,
+          "origin": "aa",
+          "originName": {
+            "am": null,
+            "en": "Addis Ababa Government",
+            "or": null,
+            "tg": null
+          }
+        }
+      ]
+    },
+    {
+      "packageId": "30f2d7c3-ad47-4eb1-917f-01735cb9e44c",
+      "count": 1,
+      "result": [
+        {
+          "id": "a0c197d5-a42c-4c4b-8499-72391e6c82ce",
+          "lotId": "43edb52a-e2d5-493a-8991-c4d0daa7a4c2",
+          "lotInPackageId": "43edb52a-e2d5-493a-8991-c4d0daa7a4c2",
+          "lotName": "S-Cam Shaft and Anchor Pin Bracket DAEWOO (Dump Truck) T-1",
+          "lotDescription": "S-Cam Shaft and Anchor Pin Bracket DAEWOO (Dump Truck) T-1",
+          "lotReferenceNo": "AACRA-NCB-G-0243-2018-PUR",
+          "lotNo": "1",
+          "procurementReferenceNo": "AACRA-NCB-G-0243-2018-PUR",
+          "procurementCategory": "Goods",
+          "packageId": "30f2d7c3-ad47-4eb1-917f-01735cb9e44c",
+          "packageInformation": {},
+          "procurementClassification": [],
+          "spdId": "00000000-0000-0000-0000-000000000000",
+          "submissionDeadline": "2026-02-27T00:00:00",
+          "openingSchedule": null,
+          "sourceId": "33afbdb5-cb2c-4d5c-90c4-9454702d5d1f",
+          "sourceApplication": "Purchasing",
+          "method": "Open",
+          "language": "en",
+          "marketPlace": "National",
+          "procuringEntity": "Addis Ababa Road Authority  ",
+          "timestamp": "2026-01-30T17:19:36.033342",
+          "invitationDate": "2026-02-26T16:12:51.82539",
+          "suppliers": null,
+          "isSubmittable": true,
+          "fiscalYearId": null,
+          "origin": "aa",
+          "originName": {
+            "am": null,
+            "en": "Addis Ababa Government",
+            "or": null,
+            "tg": null
+          }
+        }
+      ]
+    },
+    {
+      "packageId": "b80ac755-d562-4567-a22e-92a1dbbfb936",
+      "count": 1,
+      "result": [
+        {
+          "id": "3d3d5aa9-5e4b-4237-ab96-779788d27416",
+          "lotId": "5ce3331a-0567-4383-a95e-5bdb73ba816c",
+          "lotInPackageId": "5ce3331a-0567-4383-a95e-5bdb73ba816c",
+          "lotName": "* Lot 09 (IOT) Procurement of Smart Mobile Phone",
+          "lotDescription": "* Lot 09 (IOT) Procurement of Smart Mobile Phone",
+          "lotReferenceNo": "DDU-NCB-G-0669-2018-PUR",
+          "lotNo": "1",
+          "procurementReferenceNo": "DDU-NCB-G-0669-2018-PUR",
+          "procurementCategory": "Goods",
+          "packageId": "b80ac755-d562-4567-a22e-92a1dbbfb936",
+          "packageInformation": {},
+          "procurementClassification": [],
+          "spdId": "00000000-0000-0000-0000-000000000000",
+          "submissionDeadline": "2026-02-27T00:00:00",
+          "openingSchedule": null,
+          "sourceId": "b24da483-ef86-4a3a-9e4a-1a926122cf2f",
+          "sourceApplication": "Purchasing",
+          "method": "Open",
+          "language": "en",
+          "marketPlace": "National",
+          "procuringEntity": "Dire Dawa University",
+          "timestamp": "2026-02-26T16:11:26.661244",
+          "invitationDate": "2026-02-26T16:11:25.018998",
+          "suppliers": null,
+          "isSubmittable": true,
+          "fiscalYearId": null,
+          "origin": "federal",
+          "originName": {
+            "am": null,
+            "en": "Federal Government",
+            "or": null,
+            "tg": null
+          }
+        }
+      ]
+    },
+    {
+      "packageId": "0c1d1bc7-e78b-4622-8c27-be460414b9d3",
+      "count": 1,
+      "result": [
+        {
+          "id": "680d1341-791c-4e95-8d16-6736c6c11a43",
+          "lotId": "089c343b-cc1e-48a9-9523-1f76365af857",
+          "lotInPackageId": "089c343b-cc1e-48a9-9523-1f76365af857",
+          "lotName": "Injection Pump Coupling with Crosse Joint 2 T 1",
+          "lotDescription": "Injection Pump Coupling with Crosse Joint 2 T 1",
+          "lotReferenceNo": "AACRA-NCB-G-0287-2018-PUR",
+          "lotNo": "1",
+          "procurementReferenceNo": "AACRA-NCB-G-0287-2018-PUR",
+          "procurementCategory": "Goods",
+          "packageId": "0c1d1bc7-e78b-4622-8c27-be460414b9d3",
+          "packageInformation": {},
+          "procurementClassification": [],
+          "spdId": "00000000-0000-0000-0000-000000000000",
+          "submissionDeadline": "2026-02-27T00:00:00",
+          "openingSchedule": null,
+          "sourceId": "4287b56f-261d-4a17-8dae-6e06d7d881d7",
+          "sourceApplication": "Purchasing",
+          "method": "Open",
+          "language": "en",
+          "marketPlace": "National",
+          "procuringEntity": "Addis Ababa Road Authority  ",
+          "timestamp": "2026-02-05T09:57:18.551685",
+          "invitationDate": "2026-02-26T16:08:47.489148",
+          "suppliers": null,
+          "isSubmittable": true,
+          "fiscalYearId": null,
+          "origin": "aa",
+          "originName": {
+            "am": null,
+            "en": "Addis Ababa Government",
+            "or": null,
+            "tg": null
+          }
+        }
+      ]
+    },
+    {
+      "packageId": "b9598a27-aa52-487e-9313-022931fdf562",
+      "count": 1,
+      "result": [
+        {
+          "id": "7d3c8597-5ef5-470f-9dae-d400af75fe66",
+          "lotId": "472adf6f-7d29-4a53-92a7-6bb7f669f58e",
+          "lotInPackageId": "472adf6f-7d29-4a53-92a7-6bb7f669f58e",
+          "lotName": "ፕሪንተሮች እና ፎቶ ኮፒ ማ ሽን ጥገና አገልግሎት ግዥ",
+          "lotDescription": "ፕሪንተሮች እና ፎቶ ኮፒ ማ ሽን ጥገና አገልግሎት ግዥ",
+          "lotReferenceNo": "MoLS-NCB-NC-0216-2018-PUR",
+          "lotNo": "1",
+          "procurementReferenceNo": "MoLS-NCB-NC-0216-2018-PUR",
+          "procurementCategory": "NonConsultancyServices",
+          "packageId": "b9598a27-aa52-487e-9313-022931fdf562",
+          "packageInformation": {},
+          "procurementClassification": [],
+          "spdId": "00000000-0000-0000-0000-000000000000",
+          "submissionDeadline": "2026-02-27T10:00:00",
+          "openingSchedule": null,
+          "sourceId": "7ab1b0be-7cbe-4025-af76-fa4bb62f2bf9",
+          "sourceApplication": "Purchasing",
+          "method": "Open",
+          "language": "en",
+          "marketPlace": "National",
+          "procuringEntity": "Ministry of Labor and Skills",
+          "timestamp": "2026-02-25T09:07:52.915731",
+          "invitationDate": "2026-02-26T16:03:37.019434",
+          "suppliers": null,
+          "isSubmittable": true,
+          "fiscalYearId": null,
+          "origin": "federal",
+          "originName": {
+            "am": null,
+            "en": "Federal Government",
+            "or": null,
+            "tg": null
+          }
+        }
+      ]
+    },
+    {
+      "packageId": "95042d10-675d-4c0b-bb36-a92205343d3e",
+      "count": 1,
+      "result": [
+        {
+          "id": "80d64518-e9f9-4a41-9bde-20867a18bf42",
+          "lotId": "06a36057-f3b1-4979-9d34-07d669774eb5",
+          "lotInPackageId": "06a36057-f3b1-4979-9d34-07d669774eb5",
+          "lotName": "AAA Procurement of ባለ 20 ft ኮንቲነር እና ባለ 40 ft ኮንቲነር ማንሳትና ጭኖ ማጓጓዝ ",
+          "lotDescription": "AAA Procurement of ባለ 20 ft ኮንቲነር እና ባለ 40 ft ኮንቲነር ማንሳትና ጭኖ ማጓጓዝ ",
+          "lotReferenceNo": "ECC-NCB-NC-0709-2018-PUR",
+          "lotNo": "1",
+          "procurementReferenceNo": "ECC-NCB-NC-0709-2018-PUR",
+          "procurementCategory": "NonConsultancyServices",
+          "packageId": "95042d10-675d-4c0b-bb36-a92205343d3e",
+          "packageInformation": {},
+          "procurementClassification": [],
+          "spdId": "00000000-0000-0000-0000-000000000000",
+          "submissionDeadline": "2026-02-27T00:00:00",
+          "openingSchedule": null,
+          "sourceId": "f15a2c70-ffa0-4d7d-8cb9-f6db3c58923d",
+          "sourceApplication": "Purchasing",
+          "method": "Open",
+          "language": "en",
+          "marketPlace": "National",
+          "procuringEntity": "Ethiopian Customs Commission",
+          "timestamp": "2026-02-26T16:01:24.445199",
+          "invitationDate": "2026-02-26T16:01:23.615908",
+          "suppliers": null,
+          "isSubmittable": true,
+          "fiscalYearId": null,
+          "origin": "federal",
+          "originName": {
+            "am": null,
+            "en": "Federal Government",
+            "or": null,
+            "tg": null
+          }
+        }
+      ]
+    },
+    {
+      "packageId": "54e5b6f7-b0ca-4bb1-b3ab-e1331b1b0d06",
+      "count": 1,
+      "result": [
+        {
+          "id": "62ad380a-4b2d-489d-b634-05825bc40edd",
+          "lotId": "4e646349-5bee-457c-8097-6542b8b9009e",
+          "lotInPackageId": "4e646349-5bee-457c-8097-6542b8b9009e",
+          "lotName": "የልብስ ማጠቢያ ማሽን  ባለ 21 kg  IGNIS  ITALY  ግ ዥ - LOT 036-2018",
+          "lotDescription": "የልብስ ማጠቢያ ማሽን  ባለ 21 kg  IGNIS  ITALY  ግ ዥ - LOT 036-2018",
+          "lotReferenceNo": "RG-NCB-G-0040-2018-PUR",
+          "lotNo": "1",
+          "procurementReferenceNo": "RG-NCB-G-0040-2018-PUR",
+          "procurementCategory": "Goods",
+          "packageId": "54e5b6f7-b0ca-4bb1-b3ab-e1331b1b0d06",
+          "packageInformation": {},
+          "procurementClassification": [],
+          "spdId": "00000000-0000-0000-0000-000000000000",
+          "submissionDeadline": "2026-02-27T08:00:00",
+          "openingSchedule": null,
+          "sourceId": "a05361d2-ce93-4e18-9c10-84adc0d49877",
+          "sourceApplication": "Purchasing",
+          "method": "Open",
+          "language": "en",
+          "marketPlace": "National",
+          "procuringEntity": "Republican Guard",
+          "timestamp": "2026-02-26T15:57:00.086112",
+          "invitationDate": "2026-02-26T15:56:59.034456",
+          "suppliers": null,
+          "isSubmittable": true,
+          "fiscalYearId": null,
+          "origin": "federal",
+          "originName": {
+            "am": null,
+            "en": "Federal Government",
+            "or": null,
+            "tg": null
+          }
+        }
+      ]
+    },
+    {
+      "packageId": "ea3c9621-ccaa-49d1-a4c9-5e9014f221b1",
+      "count": 1,
+      "result": [
+        {
+          "id": "52fe8a6f-dc67-4557-b88d-4719c0420fa7",
+          "lotId": "24a5b790-10b8-438c-a409-8eece92c0bea",
+          "lotInPackageId": "24a5b790-10b8-438c-a409-8eece92c0bea",
+          "lotName": "Lot 06 Procurement of ለመስተንግዶ የሚሆኑ መገልገያዎች",
+          "lotDescription": "Lot 06 Procurement of ለመስተንግዶ የሚሆኑ መገልገያዎች",
+          "lotReferenceNo": "AII-NCB-G-0216-2018-PUR",
+          "lotNo": "1",
+          "procurementReferenceNo": "AII-NCB-G-0216-2018-PUR",
+          "procurementCategory": "Goods",
+          "packageId": "ea3c9621-ccaa-49d1-a4c9-5e9014f221b1",
+          "packageInformation": {},
+          "procurementClassification": [],
+          "spdId": "00000000-0000-0000-0000-000000000000",
+          "submissionDeadline": "2026-02-27T09:04:00",
+          "openingSchedule": null,
+          "sourceId": "e3ccaf92-027b-423c-8eee-2fcfeb27561f",
+          "sourceApplication": "Purchasing",
+          "method": "Open",
+          "language": "en",
+          "marketPlace": "National",
+          "procuringEntity": "Artificial Intelligence Institute",
+          "timestamp": "2026-02-25T15:41:29.939871",
+          "invitationDate": "2026-02-26T15:56:57.908504",
+          "suppliers": null,
+          "isSubmittable": true,
+          "fiscalYearId": null,
+          "origin": "federal",
+          "originName": {
+            "am": null,
+            "en": "Federal Government",
+            "or": null,
+            "tg": null
+          }
+        }
+      ]
+    },
+    {
+      "packageId": "738f7095-1725-442a-95a2-9f34075104b4",
+      "count": 1,
+      "result": [
+        {
+          "id": "ccf815d9-8521-4346-a34d-7d3ac3e38a75",
+          "lotId": "79e13631-acbe-42bc-ab18-dfb2a0ca2870",
+          "lotInPackageId": "79e13631-acbe-42bc-ab18-dfb2a0ca2870",
+          "lotName": "ሀዋሳ ጉምሩክ ኮምሽን ቅ/ጽ/ቤት የካፊተሪያ የምሆን ጃንጥላ ግዥ",
+          "lotDescription": "ሀዋሳ ጉምሩክ ኮምሽን ቅ/ጽ/ቤት የካፊተሪያ የምሆን ጃንጥላ ግዥ",
+          "lotReferenceNo": "ECC-NCB-G-0715-2018-PUR",
+          "lotNo": "1",
+          "procurementReferenceNo": "ECC-NCB-G-0715-2018-PUR",
+          "procurementCategory": "Goods",
+          "packageId": "738f7095-1725-442a-95a2-9f34075104b4",
+          "packageInformation": {},
+          "procurementClassification": [],
+          "spdId": "00000000-0000-0000-0000-000000000000",
+          "submissionDeadline": "2026-02-27T11:00:00",
+          "openingSchedule": null,
+          "sourceId": "1fa9f2c0-23de-4ad9-8937-8038848e3424",
+          "sourceApplication": "Purchasing",
+          "method": "Open",
+          "language": "en",
+          "marketPlace": "National",
+          "procuringEntity": "Ethiopian Customs Commission",
+          "timestamp": "2026-02-26T15:56:48.950239",
+          "invitationDate": "2026-02-26T15:56:47.61569",
+          "suppliers": null,
+          "isSubmittable": true,
+          "fiscalYearId": null,
+          "origin": "federal",
+          "originName": {
+            "am": null,
+            "en": "Federal Government",
+            "or": null,
+            "tg": null
+          }
+        }
+      ]
+    },
+    {
+      "packageId": "1991cd5c-0e51-4cd6-b425-0d157549778f",
+      "count": 1,
+      "result": [
+        {
+          "id": "78230218-b978-4815-8bdc-c81bbb720dab",
+          "lotId": "3dbefb66-abc3-4398-9ce2-03fa8609e04f",
+          "lotInPackageId": "3dbefb66-abc3-4398-9ce2-03fa8609e04f",
+          "lotName": "LOT 06 IOT 2018 ተመራቂዎች ተማሪዎች አገልግሎት የሚሆን የካርድ ህትመት ግዥ",
+          "lotDescription": "LOT 06 IOT 2018 ተመራቂዎች ተማሪዎች አገልግሎት የሚሆን የካርድ ህትመት ግዥ",
+          "lotReferenceNo": "DDU-NCB-G-0668-2018-PUR",
+          "lotNo": "1",
+          "procurementReferenceNo": "DDU-NCB-G-0668-2018-PUR",
+          "procurementCategory": "Goods",
+          "packageId": "1991cd5c-0e51-4cd6-b425-0d157549778f",
+          "packageInformation": {},
+          "procurementClassification": [],
+          "spdId": "00000000-0000-0000-0000-000000000000",
+          "submissionDeadline": "2026-04-01T16:00:00",
+          "openingSchedule": null,
+          "sourceId": "9ea91916-d131-4271-99bf-d96d06404829",
+          "sourceApplication": "Purchasing",
+          "method": "Open",
+          "language": "en",
+          "marketPlace": "National",
+          "procuringEntity": "Dire Dawa University",
+          "timestamp": "2026-02-26T15:49:51.061807",
+          "invitationDate": "2026-02-26T15:49:49.703791",
+          "suppliers": null,
+          "isSubmittable": true,
+          "fiscalYearId": null,
+          "origin": "federal",
+          "originName": {
+            "am": null,
+            "en": "Federal Government",
+            "or": null,
+            "tg": null
+          }
+        }
+      ]
+    },
+    {
+      "packageId": "8dd1c22f-6b82-4230-8f53-c9da598406b8",
+      "count": 1,
+      "result": [
+        {
+          "id": "c8d50446-9174-48e7-a079-0323e9078657",
+          "lotId": "0465a7a1-ffca-4f82-98ca-434f3f3d6751",
+          "lotInPackageId": "0465a7a1-ffca-4f82-98ca-434f3f3d6751",
+          "lotName": "Lot 01 Procurement of works for Geotechnical Investigation Services for Dire Dawa University Industry Linkage Project",
+          "lotDescription": "Lot 01 Procurement of works for Geotechnical Investigation Services for Dire Dawa University Industry Linkage Project",
+          "lotReferenceNo": "DDU-NCB-W-0666-2018-PUR",
+          "lotNo": "1",
+          "procurementReferenceNo": "DDU-NCB-W-0666-2018-PUR",
+          "procurementCategory": "Works",
+          "packageId": "8dd1c22f-6b82-4230-8f53-c9da598406b8",
+          "packageInformation": {},
+          "procurementClassification": [],
+          "spdId": "00000000-0000-0000-0000-000000000000",
+          "submissionDeadline": "2026-02-27T16:00:00",
+          "openingSchedule": null,
+          "sourceId": "db9d4fd6-e175-496b-a5a6-6a5a30190e8c",
+          "sourceApplication": "Purchasing",
+          "method": "Open",
+          "language": "en",
+          "marketPlace": "National",
+          "procuringEntity": "Dire Dawa University",
+          "timestamp": "2026-02-23T17:10:09.822624",
+          "invitationDate": "2026-02-26T15:47:09.435392",
+          "suppliers": null,
+          "isSubmittable": true,
+          "fiscalYearId": null,
+          "origin": "federal",
+          "originName": {
+            "am": null,
+            "en": "Federal Government",
+            "or": null,
+            "tg": null
+          }
+        }
+      ]
+    },
+    {
+      "packageId": "c48e3ba5-08fc-42c4-9389-e88da5800864",
+      "count": 1,
+      "result": [
+        {
+          "id": "7052d33f-1bb7-4a1c-ad4c-304c7880178d",
+          "lotId": "4ea58a4a-04bb-4d84-9bab-6a753da62930",
+          "lotInPackageId": "4ea58a4a-04bb-4d84-9bab-6a753da62930",
+          "lotName": "procurement of Fluid handing system ",
+          "lotDescription": "procurement of Fluid handing system ",
+          "lotReferenceNo": "SPSH-NCB-G-0282-2018-PUR",
+          "lotNo": "1",
+          "procurementReferenceNo": "SPSH-NCB-G-0282-2018-PUR",
+          "procurementCategory": "Goods",
+          "packageId": "c48e3ba5-08fc-42c4-9389-e88da5800864",
+          "packageInformation": {},
+          "procurementClassification": [],
+          "spdId": "00000000-0000-0000-0000-000000000000",
+          "submissionDeadline": "2026-02-27T00:00:00",
+          "openingSchedule": null,
+          "sourceId": "910c50ee-179b-4487-bc8a-31be7daba99a",
+          "sourceApplication": "Purchasing",
+          "method": "Open",
+          "language": "en",
+          "marketPlace": "National",
+          "procuringEntity": "St. Peter Specialized Hospital",
+          "timestamp": "2026-02-26T15:47:05.899682",
+          "invitationDate": "2026-02-26T15:47:03.927036",
+          "suppliers": null,
+          "isSubmittable": true,
+          "fiscalYearId": null,
+          "origin": "federal",
+          "originName": {
+            "am": null,
+            "en": "Federal Government",
+            "or": null,
+            "tg": null
+          }
+        }
+      ]
+    },
+    {
+      "packageId": "79cb4699-31d7-4c07-b7c7-c67eb41eaced",
+      "count": 1,
+      "result": [
+        {
+          "id": "40ce735d-cb8a-4e5e-a029-586a79126067",
+          "lotId": "44d71569-30bd-4166-a8f9-6d5399578699",
+          "lotInPackageId": "44d71569-30bd-4166-a8f9-6d5399578699",
+          "lotName": "Purchase Requisition of plomp and others",
+          "lotDescription": "Purchase Requisition of plomp and others",
+          "lotReferenceNo": "ECC-NCB-G-0711-2018-PUR",
+          "lotNo": "1",
+          "procurementReferenceNo": "ECC-NCB-G-0711-2018-PUR",
+          "procurementCategory": "Goods",
+          "packageId": "79cb4699-31d7-4c07-b7c7-c67eb41eaced",
+          "packageInformation": {},
+          "procurementClassification": [],
+          "spdId": "00000000-0000-0000-0000-000000000000",
+          "submissionDeadline": "2026-02-27T00:00:00",
+          "openingSchedule": null,
+          "sourceId": "720ecf4d-270d-422c-ad5f-3aef640dc343",
+          "sourceApplication": "Purchasing",
+          "method": "Open",
+          "language": "en",
+          "marketPlace": "National",
+          "procuringEntity": "Ethiopian Customs Commission",
+          "timestamp": "2026-02-26T15:37:50.010616",
+          "invitationDate": "2026-02-26T15:37:48.155445",
+          "suppliers": null,
+          "isSubmittable": true,
+          "fiscalYearId": null,
+          "origin": "federal",
+          "originName": {
+            "am": null,
+            "en": "Federal Government",
+            "or": null,
+            "tg": null
+          }
+        }
+      ]
+    },
+    {
+      "packageId": "26a88ee8-0966-4b3e-8fc8-f7365b976f93",
+      "count": 1,
+      "result": [
+        {
+          "id": "4e095732-6e01-42c3-a72c-a6bb9672148c",
+          "lotId": "253734e3-482b-40af-8c92-51516bea8036",
+          "lotInPackageId": "253734e3-482b-40af-8c92-51516bea8036",
+          "lotName": "-Purchase Requisition of Kitchen cabinet",
+          "lotDescription": "-Purchase Requisition of Kitchen cabinet",
+          "lotReferenceNo": "ECC-NCB-G-0710-2018-PUR",
+          "lotNo": "1",
+          "procurementReferenceNo": "ECC-NCB-G-0710-2018-PUR",
+          "procurementCategory": "Goods",
+          "packageId": "26a88ee8-0966-4b3e-8fc8-f7365b976f93",
+          "packageInformation": {},
+          "procurementClassification": [],
+          "spdId": "00000000-0000-0000-0000-000000000000",
+          "submissionDeadline": "2026-02-27T00:00:00",
+          "openingSchedule": null,
+          "sourceId": "d66b01c7-4560-4ea1-a1da-58b05d3e70c6",
+          "sourceApplication": "Purchasing",
+          "method": "Open",
+          "language": "en",
+          "marketPlace": "National",
+          "procuringEntity": "Ethiopian Customs Commission",
+          "timestamp": "2026-02-26T15:37:09.550431",
+          "invitationDate": "2026-02-26T15:37:08.543484",
+          "suppliers": null,
+          "isSubmittable": true,
+          "fiscalYearId": null,
+          "origin": "federal",
+          "originName": {
+            "am": null,
+            "en": "Federal Government",
+            "or": null,
+            "tg": null
+          }
+        }
+      ]
+    },
+    {
+      "packageId": "8fc5f6ed-6c56-4285-aa49-ab3844e0240c",
+      "count": 1,
+      "result": [
+        {
+          "id": "7cb9d276-7a00-41a3-a8c4-e5a7b609cded",
+          "lotId": "7b548cac-48e3-446f-b94f-6a558451729a",
+          "lotInPackageId": "7b548cac-48e3-446f-b94f-6a558451729a",
+          "lotName": "በአዲስ አበባ ከተማ የሆቴል አገልግሎት ግዥ ባለሶስት ኮኮብ ከተሪንግ ለየካቲት 24/2018 ዓ/ም",
+          "lotDescription": "በአዲስ አበባ ከተማ የሆቴል አገልግሎት ግዥ ባለሶስት ኮኮብ ከተሪንግ ለየካቲት 24/2018 ዓ/ም",
+          "lotReferenceNo": "IFA-NCB-NC-0112-2018-PUR",
+          "lotNo": "1",
+          "procurementReferenceNo": "IFA-NCB-NC-0112-2018-PUR",
+          "procurementCategory": "NonConsultancyServices",
+          "packageId": "8fc5f6ed-6c56-4285-aa49-ab3844e0240c",
+          "packageInformation": {},
+          "procurementClassification": [],
+          "spdId": "00000000-0000-0000-0000-000000000000",
+          "submissionDeadline": "2026-02-26T17:00:34",
+          "openingSchedule": null,
+          "sourceId": "c41cf78a-2a64-4e36-8178-e3eefc47cec3",
+          "sourceApplication": "Purchasing",
+          "method": "Open",
+          "language": "en",
+          "marketPlace": "National",
+          "procuringEntity": "Institute of Foreign Affairs",
+          "timestamp": "2026-02-25T15:02:36.915768",
+          "invitationDate": "2026-02-26T15:32:31.963799",
+          "suppliers": null,
+          "isSubmittable": true,
+          "fiscalYearId": null,
+          "origin": "federal",
+          "originName": {
+            "am": null,
+            "en": "Federal Government",
+            "or": null,
+            "tg": null
+          }
+        }
+      ]
+    },
+    {
+      "packageId": "2323a313-d27f-4c63-8278-242e057212aa",
+      "count": 1,
+      "result": [
+        {
+          "id": "b2bc54b7-f3a3-40ad-a884-c90beba65f7e",
+          "lotId": "3efd17aa-805f-47b9-aceb-0b4ee3c9af03",
+          "lotInPackageId": "e0014e95-978e-435e-a4f2-f10b65667000",
+          "lotName": "Procurement of ICT Equipment",
+          "lotDescription": "Procurement of ICT Equipment ",
+          "lotReferenceNo": "",
+          "lotNo": "1",
+          "procurementReferenceNo": "FTAC-NCB-G-0003-2018-BID-Open",
+          "procurementCategory": "Goods",
+          "packageId": "2323a313-d27f-4c63-8278-242e057212aa",
+          "packageInformation": {
+            "branch": {
+              "name": {
+                "am": "ኢንፎርሜሽን ኮሚኒኬሽን ቴክኖሎጂ ማስተባበሪያ ",
+                "en": "Information Communication Technology  Administration "
+              },
+              "isBranch": false
+            },
+            "address": {
+              "town": "Addis Ababa",
+              "email": "wondimenehtse@gmail.com",
+              "poBox": "000",
+              "street": "Piassa",
+              "country": "Ethiopia",
+              "postCode": "000",
+              "facsimile": "000",
+              "telephone": {
+                "code": "+251",
+                "number": "920908229"
+              },
+              "roomNumber": "10th floor"
+            },
+            "market_type": "National",
+            "envelop_type": "single envelop",
+            "package_name": "Procurement of ICT Equipment",
+            "package_number": "FTAC-NCB-G-0003-2018-BID-Open",
+            "invitation_date": "2026-02-17T00:00:00+03:00",
+            "procurement_type": "Bidding",
+            "procuring_entity": {
+              "am": "የታክስ ይግባኝ ኮሚሽን",
+              "en": "Federal Tax Appeal Commission "
+            },
+            "procurement_method": "Open",
+            "package_description": "Procurement of ICT Equipment",
+            "procurement_category": "Goods",
+            "procurement_language": "en"
+          },
+          "procurementClassification": [],
+          "spdId": "30697570-2e07-4633-bad4-1977019b681a",
+          "submissionDeadline": "2026-03-04T09:00:00",
+          "openingSchedule": "2026-03-04T09:30:00",
+          "sourceId": "3f3e7652-882d-4c00-90bf-cde211998716",
+          "sourceApplication": "Tendering",
+          "method": "Open",
+          "language": "en",
+          "marketPlace": "National",
+          "procuringEntity": "Federal Tax Appeal Commission ",
+          "timestamp": "2026-02-17T14:01:13.758843",
+          "invitationDate": "2026-02-26T15:22:02.119658",
+          "suppliers": null,
+          "isSubmittable": true,
+          "fiscalYearId": null,
+          "origin": "federal",
+          "originName": {
+            "am": null,
+            "en": "Federal Government",
+            "or": null,
+            "tg": null
+          }
+        }
+      ]
+    },
+    {
+      "packageId": "103e504d-6d9b-446a-b491-bebe6ec66eff",
+      "count": 1,
+      "result": [
+        {
+          "id": "392f59c2-568b-47da-8c8c-e719f5fb0a71",
+          "lotId": "5a4fb335-37fc-411c-870b-cf5e74660d95",
+          "lotInPackageId": "5a4fb335-37fc-411c-870b-cf5e74660d95",
+          "lotName": "LOT 27 ሐዋሳ ጉ/ ኮ/ቅ/ጽ/ቤት የሲኖ ትራክ መኪና የሞተር ዘይት ግዥ",
+          "lotDescription": "LOT 27 ሐዋሳ ጉ/ ኮ/ቅ/ጽ/ቤት የሲኖ ትራክ መኪና የሞተር ዘይት ግዥ",
+          "lotReferenceNo": "ECC-NCB-G-0714-2018-PUR",
+          "lotNo": "1",
+          "procurementReferenceNo": "ECC-NCB-G-0714-2018-PUR",
+          "procurementCategory": "Goods",
+          "packageId": "103e504d-6d9b-446a-b491-bebe6ec66eff",
+          "packageInformation": {},
+          "procurementClassification": [],
+          "spdId": "00000000-0000-0000-0000-000000000000",
+          "submissionDeadline": "2026-02-27T10:00:00",
+          "openingSchedule": null,
+          "sourceId": "25438aae-4151-4127-8bfa-af4d7c03bcd8",
+          "sourceApplication": "Purchasing",
+          "method": "Open",
+          "language": "en",
+          "marketPlace": "National",
+          "procuringEntity": "Ethiopian Customs Commission",
+          "timestamp": "2026-02-26T15:20:30.998326",
+          "invitationDate": "2026-02-26T15:20:30.115353",
+          "suppliers": null,
+          "isSubmittable": true,
+          "fiscalYearId": null,
+          "origin": "federal",
+          "originName": {
+            "am": null,
+            "en": "Federal Government",
+            "or": null,
+            "tg": null
+          }
+        }
+      ]
+    },
+    {
+      "packageId": "664898bc-bc5d-4b26-adcb-b4f4bc27b915",
+      "count": 1,
+      "result": [
+        {
+          "id": "63b9c699-3a4c-4a87-ad19-04598780538e",
+          "lotId": "101d01d4-fdb3-474c-9caf-d720d420e470",
+          "lotInPackageId": "101d01d4-fdb3-474c-9caf-d720d420e470",
+          "lotName": "AAA Procurement of Sport Materials mat ",
+          "lotDescription": "AAA Procurement of Sport Materials mat ",
+          "lotReferenceNo": "ECC-NCB-G-0712-2018-PUR",
+          "lotNo": "1",
+          "procurementReferenceNo": "ECC-NCB-G-0712-2018-PUR",
+          "procurementCategory": "Goods",
+          "packageId": "664898bc-bc5d-4b26-adcb-b4f4bc27b915",
+          "packageInformation": {},
+          "procurementClassification": [],
+          "spdId": "00000000-0000-0000-0000-000000000000",
+          "submissionDeadline": "2026-02-27T14:00:00",
+          "openingSchedule": null,
+          "sourceId": "0f0e4399-eef7-4632-85f0-d339a2e39be5",
+          "sourceApplication": "Purchasing",
+          "method": "Open",
+          "language": "en",
+          "marketPlace": "National",
+          "procuringEntity": "Ethiopian Customs Commission",
+          "timestamp": "2026-02-26T15:13:16.063942",
+          "invitationDate": "2026-02-26T15:13:14.468189",
+          "suppliers": null,
+          "isSubmittable": true,
+          "fiscalYearId": null,
+          "origin": "federal",
+          "originName": {
+            "am": null,
+            "en": "Federal Government",
+            "or": null,
+            "tg": null
+          }
+        }
+      ]
+    },
+    {
+      "packageId": "20f11062-81eb-4d85-baf4-f07aaf2b3286",
+      "count": 1,
+      "result": [
+        {
+          "id": "f7afd1e2-a08b-47f3-8d52-b0a8c2f34a40",
+          "lotId": "72a2c703-0d63-47c0-860f-7caf2987ee6f",
+          "lotInPackageId": "72a2c703-0d63-47c0-860f-7caf2987ee6f",
+          "lotName": "Lot 1 purchase of food in hospital 2018",
+          "lotDescription": "Lot 1 purchase of food in hospital 2018",
+          "lotReferenceNo": "DaDU-NCB-G-0062-2018-PUR",
+          "lotNo": "1",
+          "procurementReferenceNo": "DaDU-NCB-G-0062-2018-PUR",
+          "procurementCategory": "Goods",
+          "packageId": "20f11062-81eb-4d85-baf4-f07aaf2b3286",
+          "packageInformation": {},
+          "procurementClassification": [],
+          "spdId": "00000000-0000-0000-0000-000000000000",
+          "submissionDeadline": "2026-03-02T00:00:00",
+          "openingSchedule": null,
+          "sourceId": "a8347f38-c74d-4531-8dac-d9f4f4c84dc0",
+          "sourceApplication": "Purchasing",
+          "method": "Open",
+          "language": "en",
+          "marketPlace": "National",
+          "procuringEntity": "Dambi Dollo University",
+          "timestamp": "2026-02-26T15:01:36.397911",
+          "invitationDate": "2026-02-26T15:01:31.965021",
+          "suppliers": null,
+          "isSubmittable": true,
+          "fiscalYearId": null,
+          "origin": "federal",
+          "originName": {
+            "am": null,
+            "en": "Federal Government",
+            "or": null,
+            "tg": null
+          }
+        }
+      ]
+    },
+    {
+      "packageId": "aeec7d8c-c045-4763-a380-bb0e449d9b47",
+      "count": 1,
+      "result": [
+        {
+          "id": "b90c006b-4b70-4579-9579-099ae36693d2",
+          "lotId": "6dcc1018-6b98-421c-af67-c14395a5a3ec",
+          "lotInPackageId": "6dcc1018-6b98-421c-af67-c14395a5a3ec",
+          "lotName": " Procurement of Spare Parts",
+          "lotDescription": " Procurement of Spare Parts",
+          "lotReferenceNo": "SPSH-NCB-G-0283-2018-PUR",
+          "lotNo": "1",
+          "procurementReferenceNo": "SPSH-NCB-G-0283-2018-PUR",
+          "procurementCategory": "Goods",
+          "packageId": "aeec7d8c-c045-4763-a380-bb0e449d9b47",
+          "packageInformation": {},
+          "procurementClassification": [],
+          "spdId": "00000000-0000-0000-0000-000000000000",
+          "submissionDeadline": "2026-02-27T00:00:00",
+          "openingSchedule": null,
+          "sourceId": "c61e3c7f-a4de-406a-8726-59d5bb6fa550",
+          "sourceApplication": "Purchasing",
+          "method": "Open",
+          "language": "en",
+          "marketPlace": "National",
+          "procuringEntity": "St. Peter Specialized Hospital",
+          "timestamp": "2026-02-26T14:47:49.531669",
+          "invitationDate": "2026-02-26T14:47:47.611548",
+          "suppliers": null,
+          "isSubmittable": true,
+          "fiscalYearId": null,
+          "origin": "federal",
+          "originName": {
+            "am": null,
+            "en": "Federal Government",
+            "or": null,
+            "tg": null
+          }
+        }
+      ]
+    },
+    {
+      "packageId": "8b656691-2b31-4c74-b1b5-592886439775",
+      "count": 1,
+      "result": [
+        {
+          "id": "fe7e0bb8-cf84-48b6-b3ef-87362619c159",
+          "lotId": "00c1acc5-946b-464a-bfc3-5e8521cc6be7",
+          "lotInPackageId": "00c1acc5-946b-464a-bfc3-5e8521cc6be7",
+          "lotName": "Procurement of office equipment (Vital Strategies IMPACT-HDSS Ethiopia project or Dabat project)..",
+          "lotDescription": "Procurement of office equipment (Vital Strategies IMPACT-HDSS Ethiopia project or Dabat project)..",
+          "lotReferenceNo": "UoG-NCB-G-0267-2018-PUR",
+          "lotNo": "1",
+          "procurementReferenceNo": "UoG-NCB-G-0267-2018-PUR",
+          "procurementCategory": "Goods",
+          "packageId": "8b656691-2b31-4c74-b1b5-592886439775",
+          "packageInformation": {},
+          "procurementClassification": [],
+          "spdId": "00000000-0000-0000-0000-000000000000",
+          "submissionDeadline": "2026-02-27T10:00:00",
+          "openingSchedule": null,
+          "sourceId": "f17678b3-7e7c-4ac0-ab05-87b988578523",
+          "sourceApplication": "Purchasing",
+          "method": "Open",
+          "language": "en",
+          "marketPlace": "National",
+          "procuringEntity": "University of Gondar",
+          "timestamp": "2026-02-26T14:40:24.9533",
+          "invitationDate": "2026-02-26T14:40:22.136621",
+          "suppliers": null,
+          "isSubmittable": true,
+          "fiscalYearId": null,
+          "origin": "federal",
+          "originName": {
+            "am": null,
+            "en": "Federal Government",
+            "or": null,
+            "tg": null
+          }
+        }
+      ]
+    },
+    {
+      "packageId": "0db8ef19-054c-48d1-ac1e-3ee65ba9be36",
+      "count": 1,
+      "result": [
+        {
+          "id": "30599ef6-6bd0-4a02-a5b1-4dd1b258b3a7",
+          "lotId": "dc4235b4-e608-4263-8434-effc37c34b89",
+          "lotInPackageId": "dc4235b4-e608-4263-8434-effc37c34b89",
+          "lotName": "PROCUREMENTE OF COFFEE & TEA /NRF",
+          "lotDescription": "PROCUREMENTE OF COFFEE & TEA /NRF",
+          "lotReferenceNo": "MOD-NCB-G-0939-2018-PUR",
+          "lotNo": "1",
+          "procurementReferenceNo": "MOD-NCB-G-0939-2018-PUR",
+          "procurementCategory": "Goods",
+          "packageId": "0db8ef19-054c-48d1-ac1e-3ee65ba9be36",
+          "packageInformation": {},
+          "procurementClassification": [],
+          "spdId": "00000000-0000-0000-0000-000000000000",
+          "submissionDeadline": "2026-02-27T10:00:00",
+          "openingSchedule": null,
+          "sourceId": "01e57676-1dd0-47c4-8071-f3fe0b84c045",
+          "sourceApplication": "Purchasing",
+          "method": "Open",
+          "language": "en",
+          "marketPlace": "National",
+          "procuringEntity": "Ministry of Defense",
+          "timestamp": "2026-02-26T14:37:55.934486",
+          "invitationDate": "2026-02-26T14:37:55.338659",
+          "suppliers": null,
+          "isSubmittable": true,
+          "fiscalYearId": null,
+          "origin": "federal",
+          "originName": {
+            "am": null,
+            "en": "Federal Government",
+            "or": null,
+            "tg": null
+          }
+        }
+      ]
+    },
+    {
+      "packageId": "3c646ca2-223a-4d39-84ac-7e261f5408c3",
+      "count": 1,
+      "result": [
+        {
+          "id": "131e27ba-9c7b-4eda-a3e5-e3ac5d548fb6",
+          "lotId": "4571d358-e65a-438c-a89a-c5f34c6c09a1",
+          "lotInPackageId": "4571d358-e65a-438c-a89a-c5f34c6c09a1",
+          "lotName": "የጠረጴዛ ባጅ ህትመት ግዥ**    ",
+          "lotDescription": "ብራንድ ከለር እና የኮሚሽኑ ሎጎ ያለበት ሆኖ ከዚህ በፊት በታተመዉ ሳምፕላችን መሰረት\n based on sample and specification ተጫራቾች ዋጋ ከመሙላታችሁ በፊት በኮሚሽኑ ቢሮ በመገኘት የምትሰሩበትን እቃ ናሙና ማየት ይኖርባችኋል ፡፡\n",
+          "lotReferenceNo": "FEACC-NCB-G-0078-2018-PUR",
+          "lotNo": "1",
+          "procurementReferenceNo": "FEACC-NCB-G-0078-2018-PUR",
+          "procurementCategory": "Goods",
+          "packageId": "3c646ca2-223a-4d39-84ac-7e261f5408c3",
+          "packageInformation": {},
+          "procurementClassification": [],
+          "spdId": "00000000-0000-0000-0000-000000000000",
+          "submissionDeadline": "2026-02-27T00:00:00",
+          "openingSchedule": null,
+          "sourceId": "77e2fc2a-6104-45d3-9fd5-8bc3451908ab",
+          "sourceApplication": "Purchasing",
+          "method": "Open",
+          "language": "en",
+          "marketPlace": "National",
+          "procuringEntity": "The Federal Ethics and Anti-Corruption Commission",
+          "timestamp": "2026-02-26T14:37:15.361408",
+          "invitationDate": "2026-02-26T14:37:14.089961",
+          "suppliers": null,
+          "isSubmittable": true,
+          "fiscalYearId": null,
+          "origin": "federal",
+          "originName": {
+            "am": null,
+            "en": "Federal Government",
+            "or": null,
+            "tg": null
+          }
+        }
+      ]
+    },
+    {
+      "packageId": "c35cdb00-5329-488b-8ee8-ed6b14ab582e",
+      "count": 1,
+      "result": [
+        {
+          "id": "20f3a02a-7df0-4934-8395-8431bc86b749",
+          "lotId": "e3741970-aa7a-40eb-be40-1a876743f25d",
+          "lotInPackageId": "e3741970-aa7a-40eb-be40-1a876743f25d",
+          "lotName": "procurement of car spare part for hard top",
+          "lotDescription": "procurement of car spare part for hard top\n",
+          "lotReferenceNo": "FTVETI-NCB-G-0144-2018-PUR",
+          "lotNo": "1",
+          "procurementReferenceNo": "FTVETI-NCB-G-0144-2018-PUR",
+          "procurementCategory": "Goods",
+          "packageId": "c35cdb00-5329-488b-8ee8-ed6b14ab582e",
+          "packageInformation": {},
+          "procurementClassification": [],
+          "spdId": "00000000-0000-0000-0000-000000000000",
+          "submissionDeadline": "2026-03-02T00:00:00",
+          "openingSchedule": null,
+          "sourceId": "175f80b9-c46e-45c2-ba60-8c8aa7305b3f",
+          "sourceApplication": "Purchasing",
+          "method": "Open",
+          "language": "en",
+          "marketPlace": "National",
+          "procuringEntity": "Federal Technical and Vocational Education and Training Institute ",
+          "timestamp": "2026-01-23T16:17:53.310559",
+          "invitationDate": "2026-02-26T14:32:44.239967",
+          "suppliers": null,
+          "isSubmittable": true,
+          "fiscalYearId": null,
+          "origin": "federal",
+          "originName": {
+            "am": null,
+            "en": "Federal Government",
+            "or": null,
+            "tg": null
+          }
+        }
+      ]
+    },
+    {
+      "packageId": "e13d0ed1-5663-4719-8b8f-7b24de3815e3",
+      "count": 1,
+      "result": [
+        {
+          "id": "d9180cb5-42e2-42e1-a31a-69628b917b6e",
+          "lotId": "e4ac8c89-2532-491f-9f85-b3c259adea76",
+          "lotInPackageId": "e4ac8c89-2532-491f-9f85-b3c259adea76",
+          "lotName": "purchase requisition of iv stand AAA",
+          "lotDescription": "purchase requisition of iv stand AAA\n",
+          "lotReferenceNo": "ECC-NCB-G-0713-2018-PUR",
+          "lotNo": "1",
+          "procurementReferenceNo": "ECC-NCB-G-0713-2018-PUR",
+          "procurementCategory": "Goods",
+          "packageId": "e13d0ed1-5663-4719-8b8f-7b24de3815e3",
+          "packageInformation": {},
+          "procurementClassification": [],
+          "spdId": "00000000-0000-0000-0000-000000000000",
+          "submissionDeadline": "2026-02-27T00:00:00",
+          "openingSchedule": null,
+          "sourceId": "4eb29572-4ab6-433f-b64f-1b5d53d1e78e",
+          "sourceApplication": "Purchasing",
+          "method": "Open",
+          "language": "en",
+          "marketPlace": "National",
+          "procuringEntity": "Ethiopian Customs Commission",
+          "timestamp": "2026-02-26T14:30:29.2227",
+          "invitationDate": "2026-02-26T14:30:28.044312",
+          "suppliers": null,
+          "isSubmittable": true,
+          "fiscalYearId": null,
+          "origin": "federal",
+          "originName": {
+            "am": null,
+            "en": "Federal Government",
+            "or": null,
+            "tg": null
+          }
+        }
+      ]
+    },
+    {
+      "packageId": "06270854-c0ee-4a6d-b205-123954dd0164",
+      "count": 1,
+      "result": [
+        {
+          "id": "ba2924ba-b6b9-454d-a49d-754cef54954a",
+          "lotId": "7b4f06d9-4fba-4f5b-95cc-a6cf33b57fe7",
+          "lotInPackageId": "7b4f06d9-4fba-4f5b-95cc-a6cf33b57fe7",
+          "lotName": "Procurement of Hotel Service",
+          "lotDescription": "Procurement of Hotel Service in the BahirDar",
+          "lotReferenceNo": "AAU-NCB-NC-0237-2018-PUR",
+          "lotNo": "1",
+          "procurementReferenceNo": "AAU-NCB-NC-0237-2018-PUR",
+          "procurementCategory": "NonConsultancyServices",
+          "packageId": "06270854-c0ee-4a6d-b205-123954dd0164",
+          "packageInformation": {},
+          "procurementClassification": [],
+          "spdId": "00000000-0000-0000-0000-000000000000",
+          "submissionDeadline": "2026-02-27T13:00:00",
+          "openingSchedule": null,
+          "sourceId": "bda278eb-2350-420a-a5bc-d379bd26ebfe",
+          "sourceApplication": "Purchasing",
+          "method": "Open",
+          "language": "en",
+          "marketPlace": "National",
+          "procuringEntity": "Addis Ababa University",
+          "timestamp": "2026-02-25T12:27:46.600419",
+          "invitationDate": "2026-02-26T14:29:51.292127",
+          "suppliers": null,
+          "isSubmittable": true,
+          "fiscalYearId": null,
+          "origin": "federal",
+          "originName": {
+            "am": null,
+            "en": "Federal Government",
+            "or": null,
+            "tg": null
+          }
+        }
+      ]
+    },
+    {
+      "packageId": "14408a87-58f7-4a6f-927a-9ebf4e8bb92f",
+      "count": 1,
+      "result": [
+        {
+          "id": "47fbbbcb-d3f1-4ae2-987a-5b923ebd36b5",
+          "lotId": "a3f9bc69-a27f-477c-875c-ddbbb30cbf2c",
+          "lotInPackageId": "a3f9bc69-a27f-477c-875c-ddbbb30cbf2c",
+          "lotName": "SPROKET CHAIN TEAM-2",
+          "lotDescription": "SPROKET CHAIN",
+          "lotReferenceNo": "AACRA-NCB-G-0406-2018-PUR",
+          "lotNo": "1",
+          "procurementReferenceNo": "AACRA-NCB-G-0406-2018-PUR",
+          "procurementCategory": "Goods",
+          "packageId": "14408a87-58f7-4a6f-927a-9ebf4e8bb92f",
+          "packageInformation": {},
+          "procurementClassification": [],
+          "spdId": "00000000-0000-0000-0000-000000000000",
+          "submissionDeadline": "2026-02-27T17:00:00",
+          "openingSchedule": null,
+          "sourceId": "75057765-66df-4c00-abbb-340ccacbdc49",
+          "sourceApplication": "Purchasing",
+          "method": "Open",
+          "language": "en",
+          "marketPlace": "National",
+          "procuringEntity": "Addis Ababa Road Authority  ",
+          "timestamp": "2026-02-26T14:19:34.734892",
+          "invitationDate": "2026-02-26T14:19:33.63429",
+          "suppliers": null,
+          "isSubmittable": true,
+          "fiscalYearId": null,
+          "origin": "aa",
+          "originName": {
+            "am": null,
+            "en": "Addis Ababa Government",
+            "or": null,
+            "tg": null
+          }
+        }
+      ]
+    },
+    {
+      "packageId": "f07afb52-cc8b-4b36-a7a3-ed07f51bb2e5",
+      "count": 1,
+      "result": [
+        {
+          "id": "7a24ea4b-c0f5-4b3e-9a0a-9fb0cb3d6aaf",
+          "lotId": "3d818d50-40ef-417c-b6e3-abb88dfe280e",
+          "lotInPackageId": "3d818d50-40ef-417c-b6e3-abb88dfe280e",
+          "lotName": "CONTACTOR TEAM-2",
+          "lotDescription": "CONTACTOR",
+          "lotReferenceNo": "AACRA-NCB-G-0407-2018-PUR",
+          "lotNo": "1",
+          "procurementReferenceNo": "AACRA-NCB-G-0407-2018-PUR",
+          "procurementCategory": "Goods",
+          "packageId": "f07afb52-cc8b-4b36-a7a3-ed07f51bb2e5",
+          "packageInformation": {},
+          "procurementClassification": [],
+          "spdId": "00000000-0000-0000-0000-000000000000",
+          "submissionDeadline": "2026-02-27T17:00:00",
+          "openingSchedule": null,
+          "sourceId": "e21de3e0-61c9-4bf5-a011-a3b9e698539a",
+          "sourceApplication": "Purchasing",
+          "method": "Open",
+          "language": "en",
+          "marketPlace": "National",
+          "procuringEntity": "Addis Ababa Road Authority  ",
+          "timestamp": "2026-02-26T14:19:26.391525",
+          "invitationDate": "2026-02-26T14:19:24.141683",
+          "suppliers": null,
+          "isSubmittable": true,
+          "fiscalYearId": null,
+          "origin": "aa",
+          "originName": {
+            "am": null,
+            "en": "Addis Ababa Government",
+            "or": null,
+            "tg": null
+          }
+        }
+      ]
+    },
+    {
+      "packageId": "04edbc90-410c-4236-a044-39d6dd7fabb8",
+      "count": 1,
+      "result": [
+        {
+          "id": "dd4f84ad-d101-4d0a-8254-aa2a1a29cded",
+          "lotId": "a60715a3-738d-4f78-a97f-154680e51928",
+          "lotInPackageId": "a60715a3-738d-4f78-a97f-154680e51928",
+          "lotName": "LOT8 se የሀዋሳ ጉምሩክ ቅ/ፅ/ቤት የቡና; የስኳር እና የክችን ዕቃ ግዥ",
+          "lotDescription": "LOT8 se የሀዋሳ ጉምሩክ ቅ/ፅ/ቤት የቡና; የስኳር እና የክችን ዕቃ ግዥ",
+          "lotReferenceNo": "ECC-NCB-G-0708-2018-PUR",
+          "lotNo": "1",
+          "procurementReferenceNo": "ECC-NCB-G-0708-2018-PUR",
+          "procurementCategory": "Goods",
+          "packageId": "04edbc90-410c-4236-a044-39d6dd7fabb8",
+          "packageInformation": {},
+          "procurementClassification": [],
+          "spdId": "00000000-0000-0000-0000-000000000000",
+          "submissionDeadline": "2026-02-27T00:00:00",
+          "openingSchedule": null,
+          "sourceId": "99811d76-3df2-4244-a9a9-acca0b7c8fc9",
+          "sourceApplication": "Purchasing",
+          "method": "Open",
+          "language": "en",
+          "marketPlace": "National",
+          "procuringEntity": "Ethiopian Customs Commission",
+          "timestamp": "2026-02-26T14:19:25.291969",
+          "invitationDate": "2026-02-26T14:19:21.390369",
+          "suppliers": null,
+          "isSubmittable": true,
+          "fiscalYearId": null,
+          "origin": "federal",
+          "originName": {
+            "am": null,
+            "en": "Federal Government",
+            "or": null,
+            "tg": null
+          }
+        }
+      ]
+    },
+    {
+      "packageId": "24b6c0e3-af87-4aa6-88db-e1b0b9094349",
+      "count": 1,
+      "result": [
+        {
+          "id": "331b9592-3bb4-49c7-816b-165fc84ffe53",
+          "lotId": "79dfe48e-355d-40c3-a556-74489e589d2f",
+          "lotInPackageId": "79dfe48e-355d-40c3-a556-74489e589d2f",
+          "lotName": "LOT 26 ሐዋሳ ጉ/ ኮ/ቅ/ጽ/ቤት Fixing Unit ግዥ",
+          "lotDescription": "LOT 26 ሐዋሳ ጉ/ ኮ/ቅ/ጽ/ቤት Fixing Unit ግዥ",
+          "lotReferenceNo": "ECC-NCB-G-0707-2018-PUR",
+          "lotNo": "1",
+          "procurementReferenceNo": "ECC-NCB-G-0707-2018-PUR",
+          "procurementCategory": "Goods",
+          "packageId": "24b6c0e3-af87-4aa6-88db-e1b0b9094349",
+          "packageInformation": {},
+          "procurementClassification": [],
+          "spdId": "00000000-0000-0000-0000-000000000000",
+          "submissionDeadline": "2026-02-27T10:00:00",
+          "openingSchedule": null,
+          "sourceId": "b1d69d76-d5d3-40ce-a5fc-589fc07c9dcf",
+          "sourceApplication": "Purchasing",
+          "method": "Open",
+          "language": "en",
+          "marketPlace": "National",
+          "procuringEntity": "Ethiopian Customs Commission",
+          "timestamp": "2026-02-26T14:10:55.96776",
+          "invitationDate": "2026-02-26T14:10:54.501801",
+          "suppliers": null,
+          "isSubmittable": true,
+          "fiscalYearId": null,
+          "origin": "federal",
+          "originName": {
+            "am": null,
+            "en": "Federal Government",
+            "or": null,
+            "tg": null
+          }
+        }
+      ]
+    },
+    {
+      "packageId": "f0cc8469-a1bf-40bf-92a6-9ab5ba57f842",
+      "count": 1,
+      "result": [
+        {
+          "id": "864e0dad-7e6c-43ef-9469-b92807f58e1a",
+          "lotId": "3691836e-a838-4907-8f9d-f6e5822048e8",
+          "lotInPackageId": "3691836e-a838-4907-8f9d-f6e5822048e8",
+          "lotName": "Procurement of fence construction works 2018",
+          "lotDescription": "Procurement of fence construction works 2018 (Site visit is mandatory)",
+          "lotReferenceNo": "HoPR-NCB-W-0309-2018-PUR",
+          "lotNo": "1",
+          "procurementReferenceNo": "HoPR-NCB-W-0309-2018-PUR",
+          "procurementCategory": "Works",
+          "packageId": "f0cc8469-a1bf-40bf-92a6-9ab5ba57f842",
+          "packageInformation": {},
+          "procurementClassification": [],
+          "spdId": "00000000-0000-0000-0000-000000000000",
+          "submissionDeadline": "2026-02-27T00:00:00",
+          "openingSchedule": null,
+          "sourceId": "0486228f-05df-47a9-a830-3c908965cf6c",
+          "sourceApplication": "Purchasing",
+          "method": "Open",
+          "language": "en",
+          "marketPlace": "National",
+          "procuringEntity": "Houses of Peoples Representative",
+          "timestamp": "2026-02-26T14:07:29.620865",
+          "invitationDate": "2026-02-26T14:07:27.895781",
+          "suppliers": null,
+          "isSubmittable": true,
+          "fiscalYearId": null,
+          "origin": "federal",
+          "originName": {
+            "am": null,
+            "en": "Federal Government",
+            "or": null,
+            "tg": null
+          }
+        }
+      ]
+    },
+    {
+      "packageId": "3103ce47-a5b5-4e79-a2c7-0f841622209f",
+      "count": 1,
+      "result": [
+        {
+          "id": "64b35777-0dd4-4bb4-9e79-13a2404f3f46",
+          "lotId": "1ba044c4-00f6-40c8-9e6d-f674bbc5252b",
+          "lotInPackageId": "1ba044c4-00f6-40c8-9e6d-f674bbc5252b",
+          "lotName": "PROCUREMENT OF MOBILE PHONE",
+          "lotDescription": "PROCUREMENT OF MOBILE PHONE",
+          "lotReferenceNo": "HoPR-NCB-G-0308-2018-PUR",
+          "lotNo": "1",
+          "procurementReferenceNo": "HoPR-NCB-G-0308-2018-PUR",
+          "procurementCategory": "Goods",
+          "packageId": "3103ce47-a5b5-4e79-a2c7-0f841622209f",
+          "packageInformation": {},
+          "procurementClassification": [],
+          "spdId": "00000000-0000-0000-0000-000000000000",
+          "submissionDeadline": "2026-02-27T00:00:00",
+          "openingSchedule": null,
+          "sourceId": "cc6a748f-7135-40c6-8c93-3ab03bdd62fe",
+          "sourceApplication": "Purchasing",
+          "method": "Open",
+          "language": "en",
+          "marketPlace": "National",
+          "procuringEntity": "Houses of Peoples Representative",
+          "timestamp": "2026-02-26T14:01:30.230637",
+          "invitationDate": "2026-02-26T14:01:29.563733",
+          "suppliers": null,
+          "isSubmittable": true,
+          "fiscalYearId": null,
+          "origin": "federal",
+          "originName": {
+            "am": null,
+            "en": "Federal Government",
+            "or": null,
+            "tg": null
+          }
+        }
+      ]
+    },
+    {
+      "packageId": "5179457c-27f7-4803-85c7-bc8d9deb192d",
+      "count": 1,
+      "result": [
+        {
+          "id": "5015628c-657d-4313-b798-1b70c22cb7a8",
+          "lotId": "55010af4-fe86-4fe1-96d1-a2074d610ee8",
+          "lotInPackageId": "55010af4-fe86-4fe1-96d1-a2074d610ee8",
+          "lotName": "Procurement of powder soap for mor jimma branch office",
+          "lotDescription": "Procurement of powder soap for mor jimma branch office",
+          "lotReferenceNo": "MoR-NCB-G-0770-2018-PUR",
+          "lotNo": "1",
+          "procurementReferenceNo": "MoR-NCB-G-0770-2018-PUR",
+          "procurementCategory": "Goods",
+          "packageId": "5179457c-27f7-4803-85c7-bc8d9deb192d",
+          "packageInformation": {},
+          "procurementClassification": [],
+          "spdId": "00000000-0000-0000-0000-000000000000",
+          "submissionDeadline": "2026-02-27T12:50:00",
+          "openingSchedule": null,
+          "sourceId": "24507673-b991-4cc8-9e24-85cfbd5d4f80",
+          "sourceApplication": "Purchasing",
+          "method": "Open",
+          "language": "en",
+          "marketPlace": "National",
+          "procuringEntity": "Ministry of Revenue",
+          "timestamp": "2026-02-26T14:00:18.345196",
+          "invitationDate": "2026-02-26T14:00:17.390855",
+          "suppliers": null,
+          "isSubmittable": true,
+          "fiscalYearId": null,
+          "origin": "federal",
+          "originName": {
+            "am": null,
+            "en": "Federal Government",
+            "or": null,
+            "tg": null
+          }
+        }
+      ]
+    },
+    {
+      "packageId": "73046f01-bcaf-40cb-a38d-d0a8e346b497",
+      "count": 1,
+      "result": [
+        {
+          "id": "c4decab1-37e0-411a-9162-092aa37eff1c",
+          "lotId": "70e7d12b-8013-478e-b8bd-b527898190f1",
+          "lotInPackageId": "70e7d12b-8013-478e-b8bd-b527898190f1",
+          "lotName": "የልዩ ፍላጎት የቢሮ መገልገያ ግብዓቶት ግዥ",
+          "lotDescription": "የልዩ ፍላጎት የቢሮ መገልገያ ግብዓቶት ግዥ",
+          "lotReferenceNo": "DU-NCB-G-0101-2018-PUR",
+          "lotNo": "1",
+          "procurementReferenceNo": "DU-NCB-G-0101-2018-PUR",
+          "procurementCategory": "Goods",
+          "packageId": "73046f01-bcaf-40cb-a38d-d0a8e346b497",
+          "packageInformation": {},
+          "procurementClassification": [],
+          "spdId": "00000000-0000-0000-0000-000000000000",
+          "submissionDeadline": "2026-02-27T09:00:00",
+          "openingSchedule": null,
+          "sourceId": "0ef7c8a8-95bc-4210-b85b-d755eed69157",
+          "sourceApplication": "Purchasing",
+          "method": "Open",
+          "language": "en",
+          "marketPlace": "National",
+          "procuringEntity": "Dilla University",
+          "timestamp": "2026-02-26T13:56:06.38407",
+          "invitationDate": "2026-02-26T13:56:05.706789",
+          "suppliers": null,
+          "isSubmittable": true,
+          "fiscalYearId": null,
+          "origin": "federal",
+          "originName": {
+            "am": null,
+            "en": "Federal Government",
+            "or": null,
+            "tg": null
+          }
+        }
+      ]
+    },
+    {
+      "packageId": "a085d409-044f-49bd-8060-f1a7af6dcf4f",
+      "count": 1,
+      "result": [
+        {
+          "id": "1fda62e2-daa0-4fa1-b611-5a88c8e1dba6",
+          "lotId": "15f36c5d-d748-4e14-863b-c6315bc34ea3",
+          "lotInPackageId": "15f36c5d-d748-4e14-863b-c6315bc34ea3",
+          "lotName": "Procurement of Maintenance and Repair Service",
+          "lotDescription": "\nየመጋረጃ ጨርቅ ስፌት አገልግሎት ግዥ",
+          "lotReferenceNo": "DU-NCB-W-0099-2018-PUR",
+          "lotNo": "1",
+          "procurementReferenceNo": "DU-NCB-W-0099-2018-PUR",
+          "procurementCategory": "Works",
+          "packageId": "a085d409-044f-49bd-8060-f1a7af6dcf4f",
+          "packageInformation": {},
+          "procurementClassification": [],
+          "spdId": "00000000-0000-0000-0000-000000000000",
+          "submissionDeadline": "2026-02-27T11:00:00",
+          "openingSchedule": null,
+          "sourceId": "73a31953-954f-41a2-b5da-0623c1772f9f",
+          "sourceApplication": "Purchasing",
+          "method": "Open",
+          "language": "en",
+          "marketPlace": "National",
+          "procuringEntity": "Dilla University",
+          "timestamp": "2026-02-26T13:55:58.583145",
+          "invitationDate": "2026-02-26T13:55:58.283225",
+          "suppliers": null,
+          "isSubmittable": true,
+          "fiscalYearId": null,
+          "origin": "federal",
+          "originName": {
+            "am": null,
+            "en": "Federal Government",
+            "or": null,
+            "tg": null
+          }
+        }
+      ]
+    },
+    {
+      "packageId": "a94fb3d2-0b78-4cb1-aa09-063dde809ae7",
+      "count": 1,
+      "result": [
+        {
+          "id": "2cd775b2-7d9b-421d-aa05-233e06a0c01d",
+          "lotId": "40413912-45d4-49aa-8319-eee7482b3375",
+          "lotInPackageId": "40413912-45d4-49aa-8319-eee7482b3375",
+          "lotName": "የህክምና መገልገያ ግብዓቶች ግዥ",
+          "lotDescription": "የህክምና መገልገያ ግብዓቶች ግዥ",
+          "lotReferenceNo": "DU-NCB-G-0100-2018-PUR",
+          "lotNo": "1",
+          "procurementReferenceNo": "DU-NCB-G-0100-2018-PUR",
+          "procurementCategory": "Goods",
+          "packageId": "a94fb3d2-0b78-4cb1-aa09-063dde809ae7",
+          "packageInformation": {},
+          "procurementClassification": [],
+          "spdId": "00000000-0000-0000-0000-000000000000",
+          "submissionDeadline": "2026-02-27T10:00:00",
+          "openingSchedule": null,
+          "sourceId": "cab2139d-4baf-41b7-a227-948c91ce2795",
+          "sourceApplication": "Purchasing",
+          "method": "Open",
+          "language": "en",
+          "marketPlace": "National",
+          "procuringEntity": "Dilla University",
+          "timestamp": "2026-02-26T13:55:53.570874",
+          "invitationDate": "2026-02-26T13:55:53.251355",
+          "suppliers": null,
+          "isSubmittable": true,
+          "fiscalYearId": null,
+          "origin": "federal",
+          "originName": {
+            "am": null,
+            "en": "Federal Government",
+            "or": null,
+            "tg": null
+          }
+        }
+      ]
+    },
+    {
+      "packageId": "374fbf42-ee01-4b3b-bfb8-0f860a2fa118",
+      "count": 1,
+      "result": [
+        {
+          "id": "e405d1c6-2bb4-4de1-9647-7267a62e54dd",
+          "lotId": "6f9fb838-0345-44ab-a483-ec33a884ad09",
+          "lotInPackageId": "6f9fb838-0345-44ab-a483-ec33a884ad09",
+          "lotName": "Procurement of Sanitary Items",
+          "lotDescription": "\nበድጋሚ የወጣ የንፅህና መጠበቂያ ሞዴስ በPad",
+          "lotReferenceNo": "DU-NCB-G-0098-2018-PUR",
+          "lotNo": "1",
+          "procurementReferenceNo": "DU-NCB-G-0098-2018-PUR",
+          "procurementCategory": "Goods",
+          "packageId": "374fbf42-ee01-4b3b-bfb8-0f860a2fa118",
+          "packageInformation": {},
+          "procurementClassification": [],
+          "spdId": "00000000-0000-0000-0000-000000000000",
+          "submissionDeadline": "2026-02-27T14:00:00",
+          "openingSchedule": null,
+          "sourceId": "7ab9158c-adbe-493a-af0e-3492af36eab1",
+          "sourceApplication": "Purchasing",
+          "method": "Open",
+          "language": "en",
+          "marketPlace": "National",
+          "procuringEntity": "Dilla University",
+          "timestamp": "2026-02-26T13:55:48.569507",
+          "invitationDate": "2026-02-26T13:55:48.190585",
+          "suppliers": null,
+          "isSubmittable": true,
+          "fiscalYearId": null,
+          "origin": "federal",
+          "originName": {
+            "am": null,
+            "en": "Federal Government",
+            "or": null,
+            "tg": null
+          }
+        }
+      ]
+    },
+    {
+      "packageId": "c1341b15-d17d-40b4-a2b9-a780ad39d79f",
+      "count": 1,
+      "result": [
+        {
+          "id": "cc62887b-2469-4468-a81d-36818f2b6c1b",
+          "lotId": "0a45f41d-022e-4245-8a95-1149bb5f24ef",
+          "lotInPackageId": "0a45f41d-022e-4245-8a95-1149bb5f24ef",
+          "lotName": "Procurement of Agricultural Inputs",
+          "lotDescription": "\nማዳበሪያ እና የዘር ግዥ",
+          "lotReferenceNo": "DU-NCB-G-0097-2018-PUR",
+          "lotNo": "1",
+          "procurementReferenceNo": "DU-NCB-G-0097-2018-PUR",
+          "procurementCategory": "Goods",
+          "packageId": "c1341b15-d17d-40b4-a2b9-a780ad39d79f",
+          "packageInformation": {},
+          "procurementClassification": [],
+          "spdId": "00000000-0000-0000-0000-000000000000",
+          "submissionDeadline": "2026-02-27T15:00:00",
+          "openingSchedule": null,
+          "sourceId": "c605b19a-bd38-40f3-8f32-c93e57ba85e7",
+          "sourceApplication": "Purchasing",
+          "method": "Open",
+          "language": "en",
+          "marketPlace": "National",
+          "procuringEntity": "Dilla University",
+          "timestamp": "2026-02-26T13:55:42.53925",
+          "invitationDate": "2026-02-26T13:55:42.210803",
+          "suppliers": null,
+          "isSubmittable": true,
+          "fiscalYearId": null,
+          "origin": "federal",
+          "originName": {
+            "am": null,
+            "en": "Federal Government",
+            "or": null,
+            "tg": null
+          }
+        }
+      ]
+    },
+    {
+      "packageId": "bfc3c2ec-4d10-4f0f-a4ad-d4b385fa71ea",
+      "count": 1,
+      "result": [
+        {
+          "id": "67168f1c-91bf-4691-99d2-0b9dce185419",
+          "lotId": "6ef6310d-a524-429f-bbe4-facdec88d23e",
+          "lotInPackageId": "6ef6310d-a524-429f-bbe4-facdec88d23e",
+          "lotName": "Procurement of hotel service at bishoftu (21/6/2018)4star and above /2018",
+          "lotDescription": "Procurement of hotel service at bishoftu (21/6/2018)4star and above /2018",
+          "lotReferenceNo": "HoPR-NCB-NC-0307-2018-PUR",
+          "lotNo": "1",
+          "procurementReferenceNo": "HoPR-NCB-NC-0307-2018-PUR",
+          "procurementCategory": "NonConsultancyServices",
+          "packageId": "bfc3c2ec-4d10-4f0f-a4ad-d4b385fa71ea",
+          "packageInformation": {},
+          "procurementClassification": [],
+          "spdId": "00000000-0000-0000-0000-000000000000",
+          "submissionDeadline": "2026-02-27T08:00:00",
+          "openingSchedule": null,
+          "sourceId": "2b02a5d6-be63-4e6d-9772-85cba2d6ba60",
+          "sourceApplication": "Purchasing",
+          "method": "Open",
+          "language": "en",
+          "marketPlace": "National",
+          "procuringEntity": "Houses of Peoples Representative",
+          "timestamp": "2026-02-26T13:51:26.716941",
+          "invitationDate": "2026-02-26T13:51:26.067602",
+          "suppliers": null,
+          "isSubmittable": true,
+          "fiscalYearId": null,
+          "origin": "federal",
+          "originName": {
+            "am": null,
+            "en": "Federal Government",
+            "or": null,
+            "tg": null
+          }
+        }
+      ]
+    },
+    {
+      "packageId": "5be972e4-8f1b-479d-9fb5-53d3c52afe04",
+      "count": 1,
+      "result": [
+        {
+          "id": "f4a202bc-24ce-42f8-840d-56283c002c66",
+          "lotId": "c48a65a0-882e-443d-a25e-7a5751afb6ae",
+          "lotInPackageId": "c48a65a0-882e-443d-a25e-7a5751afb6ae",
+          "lotName": "Stationary Item For HRNS Project",
+          "lotDescription": "",
+          "lotReferenceNo": "ECTA-NCB-G-0076-2018-PUR",
+          "lotNo": "1",
+          "procurementReferenceNo": "ECTA-NCB-G-0076-2018-PUR",
+          "procurementCategory": "Goods",
+          "packageId": "5be972e4-8f1b-479d-9fb5-53d3c52afe04",
+          "packageInformation": {},
+          "procurementClassification": [],
+          "spdId": "00000000-0000-0000-0000-000000000000",
+          "submissionDeadline": "2026-02-27T00:00:00",
+          "openingSchedule": null,
+          "sourceId": "99b7ff6d-acac-45e7-9378-610accd715b9",
+          "sourceApplication": "Purchasing",
+          "method": "Open",
+          "language": "en",
+          "marketPlace": "National",
+          "procuringEntity": "Ethiopian Coffee and Tea Authority",
+          "timestamp": "2026-02-26T13:47:40.73741",
+          "invitationDate": "2026-02-26T13:47:39.638294",
+          "suppliers": null,
+          "isSubmittable": true,
+          "fiscalYearId": null,
+          "origin": "federal",
+          "originName": {
+            "am": null,
+            "en": "Federal Government",
+            "or": null,
+            "tg": null
+          }
+        }
+      ]
+    }
+  ]
+}
