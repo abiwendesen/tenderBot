@@ -1,6 +1,6 @@
 import fetch from "node-fetch";
 import fs from 'fs';
-import { db } from "./db.js";
+import { db } from "./db/db.js";
 export const fetcher = async(ctx) => {
     let  skip = 0;
     const pageSize = 50;
