@@ -11,6 +11,7 @@
   "author": "abi",
   "license": "ISC",
   "dependencies": {
+    "@qdrant/js-client-rest": "^1.17.0",
     "dotenv": "^17.3.1",
     "express": "^5.2.1",
     "grammy": "^1.40.1",
