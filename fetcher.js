@@ -1,6 +1,7 @@
 import fetch from "node-fetch";
 import fs from 'fs';
 import { db } from "./db/db.js";
+import { indexTender } from "./vectorStore.js";
 export const fetcher = async(ctx) => {
     let  skip = 0;
     const pageSize = 50;
@@ -35,12 +36,17 @@ export const fetcher = async(ctx) => {
                 row.lotDescription,
                 row.procurementReferenceNo,
                 row.procuringEntity,
-                row.lotRefNumber,
+                row.lotReferenceNo ?? row.lotRefNumber,
                 row.submissionDeadline,
                 row.procurementCategory]
 
              );
-             
+
+             try {
+               await indexTender(row);
+             } catch (err) {
+               console.error('Qdrant index error:', err?.message ?? err);
+             }
           }
        }
 
