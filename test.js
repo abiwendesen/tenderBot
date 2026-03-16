@@ -7,7 +7,7 @@ dotenv.config()
  try{
 
 const check =  await embedd('africa union has large building in addis ababa')
-4
+ console.log('here')
  console.log("first 5 values:", check?.slice(0, 4));
 
  const operation = await client.upsert("test_collection",{
