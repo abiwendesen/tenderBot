@@ -1,5 +1,5 @@
-import {client} from './db/vectorDb'
-import { BGE_DIMS,embedd } from "./utill/embedder";
+import {client} from './db/vectorDb.js'
+import { BGE_DIMS,embedd } from "./utill/embedder.js";
 
 
 
@@ -18,11 +18,15 @@ export async function insertTender(tender) {
                     id: tender.id,
                     vector,
                     payload:{
-                        
+                        title: tender.lotName,
+                        category: tender.procurementCategory,
+                        entity: tender.procuringEntity,
+                        deadline: tender.submissionDeadline,
+                        procurementReferenceNo: tender.procurementReferenceNo
                     }
                 }
             ]
         }
-    )
+    );
     
 }

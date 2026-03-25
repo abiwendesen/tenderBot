@@ -1,6 +1,7 @@
 import fetch from "node-fetch";
 import fs from 'fs';
 import { db } from "./db/db.js";
+import { insertTender } from "./vectorStrore.js";
 export const fetcher = async(ctx) => {
     let  skip = 0;
     const pageSize = 50;
@@ -40,6 +41,12 @@ export const fetcher = async(ctx) => {
                 row.procurementCategory]
 
              );
+
+             try{
+                  await insertTender(row)
+             }catch(err){
+               console.log("Qdrant Error " + err)
+             }
              
           }
        }
