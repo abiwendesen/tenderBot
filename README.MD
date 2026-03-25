@@ -205,21 +205,6 @@ node test.js
 
 This project is licensed under the ISC License - see the [LICENSE](LICENSE) file for details.
 
-## 👥 Authors
 
-- **Abi** - *Initial work*
-
-## 🙏 Acknowledgments
-
-- Ethiopian Government Procurement Portal for providing the API
-- Qdrant for vector database capabilities
-- Xenova for the transformers library
-- Telegram for the bot platform
-
-## 📞 Support
-
-For support and questions, please open an issue in the repository or contact the maintainers.
-
----
 
 **Note**: This project is designed for educational and informational purposes. Always verify tender information directly from official government sources before making procurement decisions.
