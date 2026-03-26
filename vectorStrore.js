@@ -1,5 +1,5 @@
 import {client} from './db/vectorDb.js'
-import { BGE_DIMS,embedd } from "./utill/embedder.js";
+import { embedd } from "./utill/embedder.js";
 
 
 

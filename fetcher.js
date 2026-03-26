@@ -36,7 +36,7 @@ export const fetcher = async(ctx) => {
                 row.lotDescription,
                 row.procurementReferenceNo,
                 row.procuringEntity,
-                row.lotRefNumber,
+                row.lotReferenceNo,
                 row.submissionDeadline,
                 row.procurementCategory]
 
