@@ -87,6 +87,7 @@ export const fetcher = async(ctx) => {
 export const interval = async(ctx)=>{
    try{
       await fetcher(ctx)
+      console.log('Done Fetching')
    }catch(err){
       console.log(err)
    }
