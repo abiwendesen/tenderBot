@@ -6,7 +6,11 @@
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "nodemon app.js"
+    "start": "nodemon app.js",
+    "qdrant": "powershell -ExecutionPolicy Bypass -File ./scripts/download-qdrant.ps1",
+    "qdrant:run": "powershell -ExecutionPolicy Bypass -File ./scripts/run-qdrant.ps1",
+    "start:local": "powershell -ExecutionPolicy Bypass -File ./scripts/start-local.ps1",
+    "db:setup": "node scripts/setup-db.js"
   },
   "author": "abi",
   "license": "ISC",
@@ -16,10 +20,11 @@
     "dotenv": "^17.3.1",
     "express": "^5.2.1",
     "grammy": "^1.40.1",
-    "mysql2": "^3.18.1",
     "node-fetch": "^3.3.2",
     "nodemon": "^3.1.14",
     "openai": "^6.27.0",
-    "redis": "^5.11.0"
+    "pg": "^8.20.0",
+    "redis": "^5.11.0",
+    "sharp": "^0.34.5"
   }
 }
