@@ -21,6 +21,10 @@ export const fetcher = async(ctx) => {
        });
 
        const data = await response.json();
+
+       if(data.items.length == 0){
+         console.log('No New Data')
+       }
       
     if(data && data.items.length >0){
       for( let item of data.items){
@@ -44,6 +48,7 @@ export const fetcher = async(ctx) => {
 
              try{
                   await insertTender(row)
+                  console.log("WRITING TO QDRANT")
              }catch(err){
                console.log("Qdrant Error " + err)
              }
