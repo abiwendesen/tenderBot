@@ -5,6 +5,7 @@ import fetch from 'node-fetch'
 import fs from 'fs'
 import { interval } from './fetcher.js';
 import { client } from './db/vectorDb.js';
+import { searchTender } from './vectorStrore.js';
 
 dotenv.config()
 const app = express();
@@ -17,6 +18,18 @@ bot.command('start',async(ctx)=>{
 
 bot.command('tender',async(ctx)=>{
     interval(ctx);
+});
+
+
+bot.command("search", async(ctx)=>{
+   let message  = ctx.message.text.split(' ');
+   console.log(message[1])
+   if(message.length< 2){
+    return ctx.reply("Please use the correct command i.e /search car")
+   }
+  const result = await searchTender(message[1]);
+      console.log(result)
+
 })
 
 app.listen(process.env.PORT,()=>{
