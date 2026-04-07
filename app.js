@@ -22,13 +22,13 @@ bot.command('tender',async(ctx)=>{
 
 
 bot.command("search", async(ctx)=>{
-   let message  = ctx.message.text.split(' ');
-   console.log(message[1])
+   let message  = ctx.message?.text?.replace(/^\/search\s*/i, '').trim();
+   
    if(message.length< 2){
     return ctx.reply("Please use the correct command i.e /search car")
    }
-  const result = await searchTender(message[1]);
-  const filtered = result.filter(r=> r.score > 0.6)
+  const result = await searchTender(message);
+  const filtered = result.filter(r=> r.score > 0.5)
       console.log(filtered)
 
 })

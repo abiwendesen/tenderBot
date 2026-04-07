@@ -35,7 +35,7 @@ export async function insertTender(tender) {
 
 export async  function searchTender(query){
     const vector = await embedd(query);
-    const limit = 8
+    const limit = 10
 
     const result = await client.search('test_collection',{
         vector,
