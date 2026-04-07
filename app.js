@@ -28,7 +28,8 @@ bot.command("search", async(ctx)=>{
     return ctx.reply("Please use the correct command i.e /search car")
    }
   const result = await searchTender(message[1]);
-      console.log(result)
+  const filtered = result.filter(r=> r.score > 0.6)
+      console.log(filtered)
 
 })
 
