@@ -2,6 +2,7 @@ import fetch from "node-fetch";
 import fs from 'fs';
 import { db } from "./db/db.js";
 import { insertTender } from "./vectorStrore.js";
+import exceljs  from 'exceljs'
 export const fetcher = async(ctx) => {
     let  skip = 0;
     const pageSize = 50;
