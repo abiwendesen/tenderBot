@@ -4,6 +4,7 @@ import { Bot } from 'grammy';
 import { interval, getKeywords } from './fetcher.js';
 import { ensureCollection, searchTenders } from './vectorStore.js';
 import { client } from './db/vectorDb.js';
+import { searchTender } from './vectorStrore.js';
 
 dotenv.config();
 const app = express();
@@ -82,47 +83,26 @@ if (token) {
       await ctx.reply('Fetching all tenders...');
     }
     interval(ctx);
-  });
-  bot.command('search', async (ctx) => {
-    const query = ctx.message?.text?.replace(/^\/search\s*/i, '').trim();
-    if (!query) {
-      await ctx.reply('Usage: /search [query]\nExample: /search medical supplies');
-      return;
-    }
-    const loadingMsg = await ctx.reply('🔍 Searching with AI (semantic match)...');
-    try {
-      const results = await searchTenders(query, 10);
-      await ctx.api.deleteMessage(ctx.chat.id, loadingMsg.message_id).catch(() => {});
-      if (!results?.length) {
-        await ctx.reply('No matching tenders found.');
-        return;
-      }
-      const lines = results.map((r, i) => {
-        const p = r.payload ?? {};
-        const score = ((r.score ?? 0) * 100).toFixed(0);
-        const deadline = p.submissionDeadline ? new Date(p.submissionDeadline).toLocaleDateString() : 'N/A';
-        return (
-          `📋 ${i + 1}. ${(p.lotName ?? 'N/A').slice(0, 80)}${(p.lotName?.length ?? 0) > 80 ? '...' : ''}\n` +
-          `   🏛 ${p.procuringEntity ?? ''}\n` +
-          `   📅 ${deadline} | Match: ${score}%`
-        );
-      });
-      const text = `Found ${results.length} tenders matching "${query}" (embedding search)\n\n` + lines.join('\n\n');
-      const MAX_LEN = 4000;
-      if (text.length > MAX_LEN) {
-        await ctx.reply(text.slice(0, MAX_LEN) + '\n\n...[truncated]');
-      } else {
-        await ctx.reply(text);
-      }
-    } catch (err) {
-      await ctx.api.deleteMessage(ctx.chat.id, loadingMsg.message_id).catch(() => {});
-      console.error('Search error:', err);
-      await ctx.reply('Search failed. Make sure Qdrant is running and tenders are indexed.');
-    }
-  });
+});
 
-  process.on('SIGTERM', () => bot.stop());
-  process.on('SIGINT', () => bot.stop());
+
+bot.command("search", async(ctx)=>{
+   let message  = ctx.message?.text?.replace(/^\/search\s*/i, '').trim();
+   
+   if(message.length< 2){
+    return ctx.reply("Please use the correct command i.e /search car")
+   }
+  const result = await searchTender(message);
+  const filtered = result.filter(r=> r.score > 0.5)
+      console.log(filtered)
+  ctx.reply("Id: ",filtered.id ,"\n", "Title: ", filtered.payload.title, "\n", "Procuring Entity: ", filtered.payload.entity,"\n", "Deadline: ", filtered.payload.deadline)
+});
+
+bot.command('file', async(ctx)=> {
+  let  message = ctx.message?.text;
+  
+
+})
 
   await ensureCollection();
   const result = await client.getCollections();
