@@ -1,5 +1,4 @@
 import fetch from "node-fetch";
-import fs from 'fs';
 import { db } from "./db/db.js";
 import { insertTender } from "./vectorStrore.js";
 import exceljs  from 'exceljs'
@@ -13,13 +12,14 @@ export const fetcher = async(ctx) => {
        const response = await fetch(`https://production.egp.gov.et/po-gw/cms-v2/api/sourcing/get-grouped-sourcing?type=all&skip=${skip}&top=${pageSize}&locale=en&orderBy%5B0%5D.field=invitationDate&orderBy%5B0%5D.direction=desc`,{
         method: 'GET',
 
-        headers:{
-            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)',
-          'Accept': 'application/json'
+      const response = await fetch(url, {
+        method: 'GET',
+        headers: {
+          'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)',
+          'Accept': 'application/json',
         },
-        
-        timeout:1000
-       });
+        timeout: FETCH_TIMEOUT,
+      });
 
        const data = await response.json();
 
@@ -55,14 +55,18 @@ export const fetcher = async(ctx) => {
              }
              
           }
-       }
+          totalFetched++;
+        }
+      }
 
-      skip+=pageSize
-      
+      if (ctx?.reply && totalFetched % 100 === 0 && totalFetched > 0) {
+        ctx.reply(`Fetching... ${totalFetched} tenders processed`).catch(() => {});
+      }
+      skip += PAGE_SIZE;
 
-    if(data.items.length < pageSize){
-      hasMore = false
-    }
+      if (!data.items?.length || data.items.length < PAGE_SIZE) {
+        hasMore = false;
+      }
 
     }
 
@@ -82,11 +86,15 @@ export const fetcher = async(ctx) => {
       
        
 
-    }catch(err){
-        console.log(err)
-        ctx.reply(err + "error")
+    } catch (err) {
+      console.error('Fetch error:', err);
+      ctx?.reply?.(`Error: ${err.message}`).catch(() => {});
+      hasMore = false;
     }
-   }
+  }
+  if (ctx?.reply && totalFetched > 0) {
+    ctx.reply(`Done. Fetched and indexed ${totalFetched} tenders.`).catch(() => {});
+  }
 }
 
 export const writeTendersOnExcel = async(ctx)=>{
@@ -103,14 +111,11 @@ export const writeTendersOnExcel = async(ctx)=>{
 
 }
 
-export const interval = async(ctx)=>{
-   try{
-      await fetcher(ctx)
-      console.log('Done Fetching')
-   }catch(err){
-      console.log(err)
-   }
-   finally{
-      setTimeout(fetcher,1000);
-   }
-}
+export const interval = async (ctx) => {
+  try {
+    await fetcher(ctx);
+  } catch (err) {
+    console.error('Fetcher error:', err);
+    ctx?.reply?.(`Error: ${err.message}`).catch(() => {});
+  }
+};
