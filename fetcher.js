@@ -88,6 +88,19 @@ export const fetcher = async(ctx) => {
    }
 }
 
+export const writeTendersOnExcel = async(ctx)=>{
+  const result =  await fetch(`https://production.egp.gov.et/po-gw/cms-v2/api/sourcing/get-grouped-sourcing?type=all&skip=${skip}&top=${pageSize}&locale=en&orderBy%5B0%5D.field=invitationDate&orderBy%5B0%5D.direction=desc`,{
+        method: 'GET',
+
+        headers:{
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)',
+          'Accept': 'application/json'
+        },
+        
+        timeout:1000
+       });
+
+}
 
 export const interval = async(ctx)=>{
    try{

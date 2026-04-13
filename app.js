@@ -31,6 +31,12 @@ bot.command("search", async(ctx)=>{
   const filtered = result.filter(r=> r.score > 0.5)
       console.log(filtered)
   ctx.reply("Id: ",filtered.id ,"\n", "Title: ", filtered.payload.title, "\n", "Procuring Entity: ", filtered.payload.entity,"\n", "Deadline: ", filtered.payload.deadline)
+});
+
+bot.command('file', async(ctx)=> {
+  let  message = ctx.message?.text;
+  
+
 })
 
 app.listen(process.env.PORT,()=>{
